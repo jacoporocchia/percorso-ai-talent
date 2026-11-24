@@ -1,0 +1,120 @@
+titolo: Agente, fasi 4-5: architettura e scrittura
+data: lunedì 22 febbraio 2027
+===
+# 0-15’ · Ripartenza
+
+## Slide 1 · Copertina
+
+“È importante che le comunicazioni ai docenti siano complete e professionali.” Tutti d’accordo. Ma provate a chiedervi: cosa devo fare, adesso, con questa frase? Non lo dice. Un modello che la legge deve indovinare. E indovina in modo diverso ogni volta. Oggi impariamo a scrivere frasi che non lasciano indovinare.
+
+## Slide 2 · Agenda
+
+Fasi 4 e 5 del processo: architettura e scrittura.
+
+Prima la regola su cui non eravate d’accordo. Poi la pillola: regole sempre, strumenti al bisogno. Poi i gruppi si scambiano il core e lo leggono con occhi esterni. Poi ognuno scrive le prime skill del suo agente.
+
+Uscite con un core rivisto da qualcuno che non l’ha scritto, e con le prime skill dell’agente.
+
+## Slide 3 · La regola su cui non eravate d’accordo
+
+Scrivendo il core, su una regola non eravate d’accordo. C’è sempre. Un minuto per gruppo: quale?
+
+> Ascolta. Per ognuna chiedi all’aula in quale dei tre casi cade.
+
+Ci sono tre possibilità.
+
+Era una regola, o un caso particolare? I casi particolari vanno nelle skill o negli esempi. Non nel core.
+
+Era una scelta? Due modi legittimi di lavorare. Allora decide la owner, e lo scrive nel diario.
+
+Era un buco? Il processo vero non è chiaro neanche a voi. Questo è il caso più prezioso. È il punto esatto in cui l’agente avrebbe sbagliato.
+
+E una cosa da ricordare. Un agente non risolve un disaccordo. Lo esegue in modo incoerente: un giorno in un modo, il giorno dopo nell’altro. Il disaccordo va risolto prima, tra persone.
+
+# 15-30’ · Pillola
+
+## Slide 4 · Regole sempre, strumenti al bisogno
+
+Lo abbiamo visto smontando il coach. Oggi diventa la vostra architettura.
+
+Nel core, sempre attivo: chi è, per chi lavora, cosa produce. Il tono e il formato di ogni risposta. Cosa chiedere se manca un dato, e quando fermarsi. Cosa non fa mai.
+
+Nelle skill, al bisogno: una procedura per una situazione. Template ed esempi riusciti. Criteri per un caso specifico. Si apre quando la richiesta somiglia alla riga “Usalo quando”.
+
+E il perché lo sapete già. Un agente non si accorge di stare sbagliando. Quindi se una regola fosse in una skill, non la caricherebbe proprio quando serve.
+
+> Mostra la decisione nel diario del coach, PROCESSO.md, fase 4.
+
+È la decisione più importante che ho preso costruendo il coach. Eccola nel diario, con la data e il perché.
+
+# 30-70’ · Revisione incrociata e istruzioni
+
+## Slide 5 · Revisione incrociata
+
+Adesso vi scambiate il core. Ogni gruppo legge quello dell’altro, con quattro domande.
+
+È un’istruzione o una spiegazione? “Scrivi”, “chiedi”, “fermati” sono istruzioni. “È importante che” è una spiegazione.
+
+Si applica a un caso? Prendete un caso reale. La regola vi dice cosa fare, sì o no?
+
+Si contraddice? Due regole che in uno stesso caso dicono cose diverse.
+
+Manca un “mai”? C’è un errore grave che il core non vieta?
+
+Scrivete commenti, non correzioni. Il gruppo che ha scritto il core decide cosa cambiare. Quindici minuti per leggere, quindici per discutere.
+
+> I commenti vanno in un file revisione.md nella cartella dell’altro gruppo. Se la discussione diventa critica alle persone, riporta alle quattro domande: si commenta il testo.
+
+## Slide 6 · La stessa regola, due volte
+
+Ecco l’esempio di prima, scritto due volte.
+
+Spiegazione: “È importante che le comunicazioni ai docenti siano complete e professionali, perché rappresentano l’azienda.”
+
+Istruzione: “Prima di scrivere al docente, verifica di avere corso, date, aula e materiali. Se manca uno, chiedilo. Tono cordiale, massimo dieci righe.”
+
+La seconda è più noiosa da leggere. Ed è quella che funziona.
+
+Il modello non capisce l’intenzione di una regola. La esegue. Se la regola non dice cosa fare in un caso concreto, il modello la interpreta. E la interpreta a modo suo, diversamente ogni volta.
+
+> Ogni gruppo prende due regole del suo core e le riscrive come istruzioni. Dieci minuti.
+
+# 70-105’ · Scrittura delle skill
+
+## Slide 7 · Una skill dell’agente
+
+Adesso le skill. Una o due per agente, dalle procedure nel mucchio “comportamento”.
+
+La struttura la conoscete dalla lezione 8. La riga “Usalo quando”. Poi la sequenza dei passi. Poi cosa chiedere se manca qualcosa. Poi l’output, con un esempio riuscito.
+
+Quattro cose da fare per ognuna. La riga descrive una situazione, non un contenuto. Dentro c’è un esempio riuscito, preso dalle fonti. E alla fine il controllo dei rimandi: ogni file che la skill cita esiste davvero.
+
+E una regola di misura. Una skill, una situazione. Se nella riga “Usalo quando” ci sono due “oppure”, sono due skill.
+
+> Giri tra i gruppi. Se un gruppo vuole scriverne cinque: una o due bastano per la prima versione, le altre arrivano quando l’uso le chiede.
+
+> Se una skill non ha un esempio riuscito: cercatelo nelle fonti. Se non c’è, il processo non ha ancora un buon risultato condiviso. Annotatelo nel diario.
+
+# 105-120’ · Consegna
+
+## Slide 8 · I casi di prova
+
+Il lavoro per lunedì 1° marzo sono i casi di prova. Da sei a otto. Circa quarantacinque minuti, divisi nel gruppo.
+
+Da quattro a sei casi normali. Un input realistico, preso da un caso vero, senza dati personali. E la risposta che vi aspettate.
+
+E due casi di stop. Un input in cui l’agente deve rifiutare o fermarsi. Manca un dato. Tocca una persona. Gli chiedono di inviare qualcosa.
+
+Una regola importante. Scrivete la risposta attesa prima di provare. Altrimenti la prova diventa un’ammirazione: guardate quanto è bravo. Senza risposta attesa, non sapete se è bravo.
+
+Lunedì facciamo girare la batteria. L’obiettivo è almeno l’ottanta per cento di casi ok.
+
+## Slide 9 · Per approfondire
+
+Quattro video su come si scrivono istruzioni che un modello segue. Due in italiano, uno sui cinque livelli d’uso di Claude e uno sui prompt in dodici minuti. Il video sulle skill della lezione 8, se l’avete perso. E un video di Anthropic, in inglese con sottotitoli, sugli agenti costruiti con istruzioni chiare.
+
+## Slide 10 · Chiusura
+
+Ultima domanda. Quale regola del vostro core avete riscritto oggi?
+
+Ci vediamo il 26. L’agente va alla prova.

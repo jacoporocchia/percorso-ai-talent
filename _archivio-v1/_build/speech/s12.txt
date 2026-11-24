@@ -1,0 +1,132 @@
+titolo: Uso, demo, rimisura
+data: lunedì 8 marzo 2027
+===
+# 0-25’ · Registro
+
+## Slide 1 · Copertina
+
+Il 7 dicembre la prima domanda era: quando possiamo fidarci di quello che Claude ci restituisce? Oggi in questa stanza ci sono due agenti che avete costruito voi, con una settimana di registro alle spalle. Non vi chiedo se vi fidate. Vi chiedo di farmi vedere i numeri.
+
+## Slide 2 · Agenda
+
+Ultima lezione. E da oggi il percorso passa nelle vostre mani.
+
+Prima leggiamo i registri. Poi i due agenti si presentano al responsabile. Poi una retrospettiva: cosa teniamo, cosa cambiamo. Poi prepariamo la rimisura del 19 aprile. E alla fine, la parte che mi sta più a cuore: ognuna di voi diventa docente per il suo team.
+
+> Il responsabile arriva per il blocco demo, a 25 minuti dall’inizio.
+
+## Slide 3 · Il registro
+
+Ogni gruppo legge il suo registro all’altro. Tre cose.
+
+Quanti ok, sugli usi della settimana. È il secondo dato, dopo la batteria di prova.
+
+I fix: cosa avete corretto a mano ogni volta? Se una correzione torna due volte, diventa una regola.
+
+E il fail più istruttivo, raccontato in due minuti da chi l’ha registrato. Cosa cambia nel core, o nelle skill?
+
+Le correzioni di oggi diventano la versione 1.1. Con una riga nel CHANGELOG.
+
+# 25-60’ · Demo al responsabile
+
+## Slide 4 · Dieci minuti per agente
+
+> Accogli il responsabile. Presentagli in una frase cosa sta per vedere.
+
+Grazie di essere qui. Adesso vedrai due agenti che il team ha costruito nelle ultime quattro settimane, su due processi che ha scelto il team. Dieci minuti ciascuno, poi le tue domande.
+
+> Da qui parla la owner. Tu stai di lato.
+
+Ogni demo segue cinque passi. Il problema: il processo e il tempo che prendeva, dalla scheda. Il perché: perché un agente, e non un gradino più basso della scala. L’agente al lavoro, su un caso reale, dal vivo. I numeri: la batteria, il registro, le ore stimate liberate. E cosa non fa: il suo “mai”, e chi lo mantiene.
+
+> Se un agente ha molti fail nel registro, la owner lo dice, con le correzioni previste. Un agente che migliora per versioni è più credibile di uno perfetto.
+
+> Alla fine, la domanda al responsabile.
+
+Una domanda per te, prima che tu vada. Cosa ti servirebbe per continuare a sostenerlo?
+
+> Se il responsabile chiede di estendere subito gli agenti: prima la v1.1 e un mese di registro. Le estensioni passano dalla stessa scheda e dagli stessi controlli.
+
+# 60-85’ · Retrospettiva
+
+## Slide 5 · Cosa teniamo, cosa cambiamo, cosa lasciamo
+
+Adesso guardiamo indietro. Dodici settimane.
+
+Prima una frase, che si dice all’inizio di ogni retrospettiva. Ognuna di voi ha fatto il meglio possibile, con quello che sapeva, con il tempo che aveva. E vale anche per me.
+
+Tre colonne.
+
+Teniamo: cosa ha funzionato, e va rifatto uguale quando il percorso passa a un altro team.
+
+Cambiamo: cosa ha funzionato a metà. I tempi, le consegne, gli strumenti, l’ordine delle lezioni.
+
+Lasciamo: cosa non è servito. Va detto. Così chi rifà il percorso non lo ripete.
+
+> Cinque minuti di scrittura individuale, poi raggruppate insieme, poi scegliete due azioni.
+
+Quello che scrivete oggi diventa la versione 2 del percorso. Non è un feedback per me. È il materiale per chi viene dopo di voi.
+
+# 85-100’ · Rimisura
+
+## Slide 6 · Il 19 aprile
+
+Il 19 aprile rimisuriamo. È l’unico momento in cui le ore liberate smettono di essere una stima e diventano un dato.
+
+Il metodo è lo stesso di dicembre. Calendario, quattro settimane, dal 15 marzo al 9 aprile. Diario, cinque giorni, dal 12 al 16 aprile. Stessi prompt, stesso file. E il 16, un incontro di un’ora.
+
+Cosa confrontiamo. Il time audit di dicembre con aprile: quota sui goal, quota “solo io”, blocchi da novanta minuti.
+
+E cosa verifichiamo. Le ore liberate che avete stimato nelle schede: sono successe davvero? E dove sono finite? Vi ricordate il gruppo “da proteggere”? Ecco, lì vediamo se il tempo liberato è andato dove volevate, o in altre email.
+
+Senza questa rimisura, l’audit di dicembre resta una fotografia.
+
+Il confronto resta vostro. All’incontro portate solo quello che scegliete.
+
+> Ognuna mette adesso in calendario il diario e l’incontro del 19 aprile.
+
+# 100-120’ · Da allieva a docente e chiusura
+
+## Slide 7 · Da allieva a docente
+
+E adesso la parte per cui questo percorso esiste.
+
+Ognuna di voi porta un pezzo del percorso al suo team.
+
+Cosa: una o due lezioni, quelle che avete vissuto meglio.
+
+A chi: il vostro team, o un gruppo di colleghe che fanno un lavoro simile al vostro.
+
+Con cosa: deck, scaletta, scheda, registrazioni. È tutto nel basket, pronto.
+
+Quando: una data entro due mesi. Senza una data, resta un’intenzione.
+
+E c’è una cosa che forse non avete notato. Tutto quello che avete prodotto è già materiale. Le registrazioni, i LEGGIMI, gli elenchi degli scarti, i contratti. Diventano la base di conoscenza del team, e degli agenti che verranno.
+
+> Ognuna abbozza il piano: cosa, a chi, con cosa, quando, e come capirà se è servito.
+
+> Se una collega non si sente pronta: il piano può essere piccolo. Una lezione, a due colleghe, in coppia con un’altra del gruppo.
+
+## Slide 8 · Dopo oggi
+
+Dopo oggi, tre cose.
+
+L’agente entra nel lavoro ordinario. Si usa e si registra. La owner raccoglie i fix e fa uscire la versione 1.1 entro fine marzo.
+
+Il piano da docente. Una pagina, entro lunedì 22 marzo. Cosa portate, a chi, con quali materiali, in che data. Mandatelo a me.
+
+E il coach resta vostro. La cartella è sul vostro Mac e continua a funzionare. Slash coach checkin e slash coach sessione ci sono anche dopo oggi.
+
+## Slide 9 · Per approfondire
+
+Gli ultimi quattro video. Tre in italiano su come si fa una retrospettiva, per rifarla con il vostro team. E una conversazione lunga con Enkk, che si intitola “Nessuno sa davvero come funziona l’AI”. Per chiudere con una domanda aperta, invece che con una risposta.
+
+## Slide 10 · Chiusura
+
+Ultimo giro. L’ultimo davvero. Una frase a testa. Cosa portate al vostro team?
+
+> Ascolta tutte. Poi chiudi tu, in due frasi, con la tua.
+
+[La tua frase di chiusura.]
+
+Grazie. Ci vediamo il 19 aprile, con i numeri.

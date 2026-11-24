@@ -1,0 +1,122 @@
+titolo: Agente, fase 5: scrittura e casi di prova
+data: lunedì 22 febbraio 2027
+===
+# 0-10’ · Ripartenza
+
+## Slide 1 · Copertina
+
+“È importante che le comunicazioni ai candidati siano complete e professionali.” Tutti d’accordo. Ma provate a chiedervi: cosa devo fare, adesso, con questa frase? Non lo dice. Un modello che la legge deve indovinare. E indovina in modo diverso ogni volta. Oggi impariamo a scrivere frasi che non lasciano indovinare. E a decidere cosa è giusto prima di vedere cosa fa l’agente.
+
+## Slide 2 · Agenda
+
+Fase 5 del processo: la scrittura, e i casi di prova.
+
+Prima le skill dopo due prove. Poi la pillola: istruzione, non spiegazione. Poi ogni gruppo legge l’agente dell’altro. Poi trenta minuti di gruppo per scrivere i casi di prova. Poi la seconda prova esplorativa, con core e skill insieme.
+
+Uscite con un agente corretto da occhi esterni e una batteria di prova scritta prima di provarla.
+
+## Slide 3 · Le skill dopo due prove
+
+Avete provato la vostra skill due volte. Cosa è cambiato? Un minuto a testa, dal diario.
+
+Scattava male? Quante volte avete riscritto la riga?
+
+Chiedeva troppo, o troppo poco? La sezione “chiedi” era incompleta, o chiedeva cose che aveva già.
+
+Due skill si pestavano i piedi? Chi ha risolto, e come?
+
+> Se una collega non ha provato la skill, la prova adesso a schermo, davanti a tutte. Due minuti, e vale come esempio per la seconda prova di oggi.
+
+# 10-20’ · Pillola
+
+## Slide 4 · La stessa regola, due volte
+
+Ecco la frase di prima, scritta due volte.
+
+Spiegazione: “È importante che le comunicazioni ai candidati siano complete e professionali, perché rappresentano l’azienda.”
+
+Istruzione: “Prima di scrivere al candidato, verifica di avere ruolo, data, ora, sede o link, e nome di chi conduce il colloquio. Se manca uno, chiedilo. Tono cordiale, massimo dieci righe.”
+
+La seconda è più noiosa da leggere. Ed è quella che funziona. Vale uguale per la formazione: verifica corso, date, aula e materiali prima di scrivere al docente.
+
+Il modello non capisce l’intenzione di una regola. La esegue. Se la regola non dice cosa fare in un caso concreto, il modello la interpreta. E la interpreta a modo suo, diversamente ogni volta.
+
+> Ogni gruppo riscrive a voce una regola del suo core che comincia con “è importante che”. La plenaria della settimana scorsa le ha già segnate.
+
+# 20-50’ · Revisione incrociata
+
+## Slide 5 · Ogni gruppo legge l’agente dell’altro
+
+Adesso vi scambiate l’agente. Core e skill. Ogni gruppo legge quello dell’altro, con quattro domande.
+
+È un’istruzione o una spiegazione?
+
+Si applica a un caso? Prendete un caso reale. La regola vi dice cosa fare, sì o no?
+
+Si contraddice? Due regole, o una regola e una skill, che in uno stesso caso dicono cose diverse.
+
+Manca un “mai”? C’è un errore grave che l’agente non si vieta?
+
+Ognuna legge il core e una skill. Nessuna legge da sola, nessuna legge tutto.
+
+Scrivete commenti, non correzioni. Vanno nel file revisione, nella cartella dell’altro gruppo. Il gruppo autore decide cosa cambiare. Quindici minuti per leggere, quindici per discutere.
+
+> Se la discussione diventa critica alle persone, riporta alle quattro domande: si commenta il testo. Se un gruppo vuole correggere direttamente i file dell’altro: no. Chi ha scritto una parte la corregge.
+
+C’è un motivo in più per cui lo facciamo. Dopo il percorso io non ci sarò a ogni correzione. Ci sarete voi, un gruppo per l’altro.
+
+# 50-80’ · Casi di prova
+
+## Slide 6 · Da sei a otto casi
+
+Trenta minuti di gruppo. Scrivete la batteria di prova, nel file casi-prova dal modello.
+
+Da quattro a sei casi normali. Un input realistico, preso da un caso vero, con i nomi inventati. E la risposta che vi aspettate.
+
+E due casi di stop. Un input in cui l’agente deve rifiutare o fermarsi. Manca un dato. Tocca una persona. Gli chiedono di inviare qualcosa.
+
+Ognuna scrive almeno un caso, possibilmente uno che tocca la sua skill.
+
+E una regola che non ammette eccezioni. La risposta attesa si scrive prima di provare. È vietato copiarla da un output che l’agente ha già generato. Una prova scritta guardando la risposta non misura niente: misura quanto la risposta vi piace.
+
+> In aula bastano input e tipo per tutti i casi. Ma i due casi di stop devono avere già la risposta attesa prima della seconda prova. Se qualcuna incolla una risposta dell’agente come risposta attesa, si cancella e si riscrive a mano.
+
+# 80-105’ · Seconda prova
+
+## Slide 7 · Core e skill insieme
+
+Adesso la seconda prova esplorativa. Core e skill lavorano insieme, su due casi della batteria.
+
+Prima il caso 1. Il prompt è quello della slide: leggi il core, le skill, le fonti, e alla fine dimmi quali regole e quale skill hai usato.
+
+Poi un caso di stop. Si ferma? Spiega cosa può fare invece? Se inventa il dato mancante, la regola nel core non basta.
+
+Cosa annotare nel diario. Cosa è migliorato rispetto alla prova della lezione 8. Dove sbaglia ancora, e se è il core o una skill. E chi corregge: un nome accanto a ogni errore.
+
+Ancora esplorazione. Si guarda, si annota, non si conta. La batteria completa si esegue la settimana prossima.
+
+> Se la risposta dell’agente è migliore della risposta attesa, non riscrivere la risposta attesa adesso. Annotalo: alla lezione 11 si discute se cambiare la regola. Se la seconda prova va peggio della prima, quasi sempre due skill si sovrappongono.
+
+# 105-120’ · Consegna
+
+## Slide 8 · La consegna
+
+Per lunedì 1° marzo, trenta minuti nel vostro slot.
+
+Quindici minuti: le correzioni. Per ogni commento accettato che riguarda la vostra parte di core o la vostra skill, correggete e scrivete una riga nel diario. Se non siete d’accordo con un commento accettato, scrivetelo: decide la owner.
+
+Quindici minuti: le risposte attese dei casi che avete scritto voi. Senza provare l’agente su quei casi.
+
+Settimana piena? Versione minima: solo le risposte attese.
+
+E fino alla lezione 11, l’agente non si usa su casi reali con dati di persone.
+
+## Slide 9 · Per approfondire
+
+Tre video su come si scrivono istruzioni che un modello segue. Due in italiano, uno sui cinque livelli d’uso di Claude e uno sui prompt in dodici minuti. E un video di Anthropic, in inglese con sottotitoli, sugli agenti costruiti con istruzioni chiare.
+
+## Slide 10 · Chiusura
+
+Ultima domanda. Quale regola avete riscritto dopo aver letto l’agente dell’altro gruppo?
+
+Ci vediamo lunedì 1° marzo. L’agente va alla prova.

@@ -1,0 +1,158 @@
+titolo: Dove va il mio tempo
+data: lunedì 14 dicembre 2026
+===
+# 0-15’ · Ripartenza
+
+## Slide 1 · Copertina
+
+Lunedì scorso abbiamo visto Claude fare conti perfetti sul file sbagliato, con il tono di chi non ha dubbi. Oggi facciamo lo stesso esperimento su uno strumento che usiamo da molto più tempo: la nostra memoria. E la domanda è una sola. Dove va il mio tempo?
+
+## Slide 2 · Agenda
+
+Partiamo dal lavoro che avete portato. Poi vi chiedo di scrivere una stima, e la chiudiamo in una busta. Dieci minuti su perché la memoria sbaglia sul tempo, e vi faccio vedere i miei numeri. Poi una griglia con quattro etichette. Poi il grosso: con il coach elencate tutto quello che fate sempre. Alla fine avviamo insieme la raccolta dati per la settimana.
+
+Uscite con l’elenco delle vostre attività ricorrenti, ognuna con il suo goal e con chi dovrebbe farla. E con la raccolta dati già partita.
+
+## Slide 3 · Il lavoro portato
+
+Un giro veloce, due-tre minuti a testa. Due domande.
+
+Il goal è completato? Mi basta un sì o un no. Il contenuto resta vostro. Se non l’avete finito, lo chiudete nella prima parte di oggi: il coach riparte da dove eravate.
+
+E poi raccontatemi uno dei tre usi di Claude. Cosa avete chiesto, quanto era grande quello che gli avete dato, e come avete verificato la risposta.
+
+> Su ogni racconto chiedi: quanto era grande l’input? Hai fatto una delle tre domande?
+
+Perché partiamo da qui. Questo percorso è una catena. Senza goal non si legge il tempo. Senza la lettura del tempo non ci sono le schede di automazione. Senza schede non c’è l’agente. Ogni anello regge quello dopo.
+
+# 15-35’ · Stima in busta, pillola e demo
+
+## Slide 4 · La stima
+
+> Distribuisci un foglietto e una busta a testa.
+
+Prima di misurare, scommettiamo.
+
+Pensate a una settimana normale. Scrivete tre percentuali che fanno cento. Quanto del vostro tempo va in lavoro skilled, cioè quello per cui siete lì: progettare, facilitare, scrivere, selezionare. Quanto in lavoro strategico: pianificare, decidere priorità, pensare a dove andare. Quanto in coordinamento: allineamenti, aggiornamenti, messaggi, cercare informazioni, passare da uno strumento all’altro.
+
+Non pensateci troppo. Mi interessa la prima risposta, non la più giusta.
+
+> Aspetta che scrivano. Poi fai chiudere le buste.
+
+La busta si chiude adesso. Si riapre lunedì 21, quando avrete i dati davanti. La leggete solo voi.
+
+## Slide 5 · La memoria del tempo
+
+Perché la busta? Perché quella che avete scritto è un’ipotesi, non un dato. Tre idee.
+
+Uno: sovrastimiamo. Chi stima le proprie ore tende a gonfiarle rispetto a quello che risulta dai diari. E lo scarto cresce con le ore lavorate. Non è malafede. La memoria ricorda gli episodi, non le durate.
+
+Due: il coordinamento è invisibile. Un messaggio, una ricerca nella cartella condivisa, un passaggio da Teams a Excel. Pezzi da due minuti. Nessuno li ricorda. Ma a fine settimana si sommano, e spesso diventano ore.
+
+Tre: il confronto è con voi stesse. I report di settore dicono cose sulla media. Non dicono niente su di voi. Il confronto utile è la vostra stima contro il vostro dato. E il prima contro il dopo: per questo ad aprile rimisuriamo.
+
+C’è una frase che vi chiedo di tenere a mente. Senza una domanda, un audit del tempo è autosorveglianza. Prima di raccogliere dati, decidete cosa volete sapere alla fine.
+
+Vi ricorda qualcosa? Lunedì scorso Claude rispondeva con sicurezza su un file che non aveva davanti. La memoria fa lo stesso con il tempo. Il rimedio è lo stesso: guardare la fonte.
+
+## Slide 6 · I miei numeri
+
+> Compila prima la slide con i tuoi numeri. Tieni pronta a schermo la tabella che Claude ha estratto dal tuo calendario.
+
+Vi faccio vedere i miei. Questa è la mia stima, scritta prima di aprire il calendario: [skilled …%], [strategico …%], [coordinamento …%].
+
+E questo è il mio calendario, quattro settimane, dal 16 novembre all’11 dicembre. Ore di riunione a settimana: […]. Riunioni ricorrenti: […]% del totale. Blocchi liberi da novanta minuti: […] a settimana. Riunioni organizzate da me: […]%.
+
+Quello che mi ha sorpreso è [una frase sola, la tua].
+
+> Se verificando la tabella hai trovato un errore di Claude, mostralo. Un evento saltato o un ricorrente letto male vale più di qualsiasi spiegazione.
+
+E adesso la parte importante. Questo calendario non mi dice niente dei messaggi, delle ricerche, dei passaggi tra strumenti. Il tempo invisibile di cui parlavamo prima non è qui. Per quello serve un diario, e ve lo do alla fine. Ma non lo farete sotto Natale.
+
+# 35-45’ · La griglia
+
+## Slide 7 · Le quattro etichette
+
+Quando avrete l’elenco delle attività, ognuna riceve quattro etichette.
+
+Tipo: skilled, strategico o coordinamento. Goal: a quale dei vostri goal serve, oppure a nessuno. Energia: vi carica, è neutra, vi scarica. Chi deve farlo: e su questa torno tra un attimo.
+
+Quattro sono tante. Se pesano, partite da due: goal e chi deve farlo. Sono quelle che ci servono alla lezione 4.
+
+Le etichette le potete proporre voi o il coach. Lui può fare una prima classificazione dalle vostre descrizioni. Ma la conferma è sempre vostra.
+
+> Classificate insieme tre attività della tua demo. Scegline una facile, una ambigua e una che non serve a nessun goal.
+
+Notate una cosa. “Nessuno” come goal non è un giudizio. È un dato. Ci dice dove guardare.
+
+## Slide 8 · Chi deve farlo
+
+La domanda che apre la delega è semplice. Se domani non ci foste, chi la farebbe?
+
+Ci sono tre risposte. Solo io: serve il mio giudizio, il mio ruolo, la mia relazione con quella persona. Chiunque: con le istruzioni giuste la farebbe chiunque. E in mezzo c’è la risposta più interessante. Io per ora.
+
+Io per ora vuol dire: potrebbe farla qualcun altro, ma oggi mancano le istruzioni, o la persona, o la fiducia. È lì che nascono le schede di automazione della lezione 4. Spesso è lì che nasce un agente.
+
+Se siete indecise, c’è un test. Quanti mesi servirebbero per formare un neolaureato brillante a farla? Più mesi servono, più è lavoro profondo, e più è difficile da delegare. A una persona o a una macchina.
+
+# 45-100’ · Inventario con il coach
+
+## Slide 9 · L’inventario
+
+Adesso tocca a voi. Cinquantacinque minuti con il coach. Il comando è slash coach audit.
+
+Il coach vi farà prima due domande. Cosa volete sapere alla fine: è la domanda di cui parlavamo, scegliete la vostra. E le tre percentuali: riportate quelle della busta.
+
+Poi vi chiederà di ripercorrere un mese tipico. Cosa fate sempre? E poi: cos’altro? Per ogni attività, quante volte, quanto dura, quante ore al mese. Poi le etichette.
+
+L’obiettivo è arrivare ad almeno quindici attività. Le prime vengono da sole. Le più interessanti arrivano spesso dopo il primo “cos’altro”.
+
+E ricordate: l’audit è vostro. Resta nella vostra cartella. Il 21 portate solo quello che scegliete.
+
+> Giri tra i tavoli. Non guardi gli schermi. Se il coach salta la domanda iniziale, fai scrivere: “Prima chiedimi cosa voglio sapere alla fine e le mie tre percentuali”.
+
+> Se una collega si ferma a sei-otto attività: ripercorri per frequenza. Ogni giorno, ogni settimana, ogni mese, una volta l’anno.
+
+# 100-120’ · Consegna avviata in aula
+
+## Slide 10 · La consegna
+
+Il lavoro ha due pezzi, in due momenti diversi.
+
+Il primo è il calendario, per lunedì 21. Trenta minuti, entro mercoledì 16. Claude legge il vostro Outlook dal 16 novembre all’11 dicembre: quattro settimane normali, lontane da Natale. Ve lo spiego nella prossima slide. Da solo basta per aprire la busta lunedì prossimo.
+
+Il secondo è il diario, ed è per gennaio. Cinque giorni in una settimana che scegliete voi, tra l’11 e il 29 gennaio, fuori dai vostri picchi. Due volte al giorno, a metà giornata e quando uscite, all’ora che va bene a voi. Quattro minuti. Una riga per ogni mezz’ora, in un Excel con gli orari già scritti e le etichette a menu.
+
+Perché a gennaio. La settimana prima di Natale non somiglia a nessun’altra. Il diario serve a vedere quello che il calendario non mostra, e deve guardare una settimana vera.
+
+Se la settimana è piena, la versione minima è quindici minuti: solo le ultime due settimane di calendario. E scrivetemi in chat quale settimana scegliete per il diario.
+
+## Slide 11 · Il calendario in due passi
+
+Claude legge il calendario in due passi, e l’ordine conta.
+
+Primo passo: gli chiedete di trascrivere gli eventi in una tabella. Giorno, inizio, fine, tipo di riunione, se l’avete organizzata voi. Senza nomi di persone. E gli dite di non calcolare niente finché non confermate.
+
+Poi verificate. Outlook aperto accanto. Manca qualche evento? Gli orari tornano? I ricorrenti ci sono tutti? Sono le tre domande della lezione 1, applicate al vostro calendario.
+
+Secondo passo, solo dopo la verifica: quattro numeri. Ore di riunione a settimana. Quota di ricorrenti. Blocchi liberi da novanta minuti. Riunioni organizzate da voi. E per ogni numero, da quali righe viene.
+
+Poi chiedete al coach di salvarli nella cartella del time audit.
+
+Il connettore è in sola lettura. Claude non può spostarvi niente in agenda. Se il connettore non risponde, fate uno screenshot della vista settimanale e usate lo stesso prompt.
+
+Una nota per chi fa recruiting. Nel vostro calendario ci sono nomi di candidati. Non passano per il connettore: usate lo screenshot della vista occupato e libero, che mostra i blocchi senza i titoli. Il conto delle ore viene uguale.
+
+> Ognuna lancia adesso il primo prompt sulla settimana dal 16 al 20 novembre. Il gesto deve essere già stato fatto una volta prima di uscire. Poi manda il file del diario e chiedi a ognuna la settimana di gennaio.
+
+## Slide 12 · Per approfondire
+
+Per chi vuole, tre video in italiano sul tempo profondo e sul tempo che si disperde, partendo da Deep Work di Cal Newport. E la prima pillola di Enkk, se non l’avete vista. Sceglietene uno e portatemi una frase che vi è rimasta.
+
+## Slide 13 · Chiusura
+
+Ultimo giro. Una frase a testa: cosa vi aspettate di scoprire?
+
+> Annota mentalmente le risposte: il 21 le riprendi davanti ai dati.
+
+Ci vediamo lunedì 21. Si apre la busta.

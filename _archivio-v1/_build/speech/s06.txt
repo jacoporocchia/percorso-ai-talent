@@ -1,0 +1,146 @@
+titolo: Disegnare la struttura
+data: lunedì 25 gennaio 2027
+===
+# 0-15’ · Ripartenza
+
+## Slide 1 · Copertina
+
+Una settimana fa vi ho chiesto di contare le copie di un file che pensavate unico. Oggi quel numero lo mettiamo sul tavolo. E poi facciamo una cosa che di solito in un team non si fa mai: decidiamo insieme dove vanno le cose.
+
+## Slide 2 · Agenda
+
+Questa è la lezione più di team di tutto il percorso. Una struttura funziona solo se la sentite vostra. Quindi oggi io propongo, e voi decidete.
+
+Prima contiamo le copie. Poi quattro convenzioni. Poi il grosso: in gruppo, la struttura di Talent, con nomi, regole e chi ne risponde. Poi ognuna ci migra dentro un primo pezzo, in aula. Alla fine la consegna.
+
+## Slide 3 · Quante copie abbiamo trovato
+
+Tre domande, un giro solo.
+
+Il totale: ognuna dice quante copie ha trovato sul suo tema. Lo sommiamo. È la base di un indicatore che riguardiamo a marzo.
+
+La copia più strana: un esempio a testa. Dove stava, e perché era nata.
+
+E l’ultima: per quante di queste sapevate dire subito quale fosse la vera?
+
+> Scrivi il totale aggregato in vista di tutte. Non serve sapere di chi sono le copie.
+
+Questo numero lo ricontiamo alla lezione 12, sull’area migrata. Vediamo se scende.
+
+# 15-30’ · Pillola: quattro convenzioni
+
+## Slide 4 · Quattro convenzioni
+
+Quattro convenzioni. Bastano, se le rispettano tutte.
+
+Il nome. Anno, mese, giorno, trattino basso, argomento. Il file si ordina da solo e si capisce cos’è senza aprirlo.
+
+Niente “def”, niente “v3”. Le versioni le tiene già lo strumento.
+
+Un LEGGIMI in ogni cartella. Tre righe: cosa contiene, chi ne risponde, da dove arrivano i dati.
+
+Link, non copia. Se un file serve altrove, si mette il collegamento a quello che fa fede.
+
+> Demo dal vivo: apri un file in OneDrive o SharePoint, tasto destro, Cronologia versioni. Mostra che si torna indietro.
+
+Guardate qui. Ogni file su OneDrive tiene già la sua storia. Tasto destro, cronologia versioni. Potete tornare a com’era martedì scorso. Questo rende inutili le copie “per sicurezza”. La sicurezza c’è già.
+
+# 30-75’ · Progetto in gruppo
+
+## Slide 5 · La proposta
+
+Vi porto una proposta. Sette cartelle, e ognuna risponde a una domanda.
+
+Zero zero, LEGGIMI: le regole e chi risponde di cosa.
+
+Zero uno, fonti: i dati originali. Si leggono, non si toccano.
+
+Zero due, lavoro: le elaborazioni in corso, una sottocartella per progetto.
+
+Zero tre, output: quello che è stato consegnato, e a chi. In un posto solo.
+
+Zero quattro, modelli: template, checklist, e più avanti le skill.
+
+Zero cinque, agenti: qui vivranno i due agenti che costruirete.
+
+Novantanove, archivio: quello che è chiuso esce dai piedi, ma non sparisce.
+
+E poi c’è la vostra cartella del coach, che resta sul vostro Mac. Privata.
+
+Se vi sembra familiare, è perché ricalca la cartella del coach. Quello che è di tutti separato da quello che è di una persona. Le fonti separate dalle elaborazioni.
+
+È un punto di partenza. Oggi la provate sulle vostre mappe e la cambiate dove non regge.
+
+## Slide 6 · Cosa non entra
+
+Prima di cominciare, tre cose che non entrano.
+
+I dati di candidati e dipendenti. Restano nel gestionale e nella piattaforma. Nella struttura entrano solo anonimizzati, per uno scopo dichiarato.
+
+La vostra istanza del coach. Resta sul vostro Mac. Nella cartella condivisa entra solo quello che scegliete di portarci.
+
+Gli allegati come archivio. Un allegato si salva una volta, nel posto giusto. La mail non è una cartella.
+
+Questa regola non è burocrazia. Protegge le persone di cui gestiamo i dati. E protegge voi: è quello che vi permette di dare la cartella a Claude senza chiedervi ogni volta cosa c’è dentro.
+
+Oggi decidiamo anche due cose in più. Chi può scrivere in zero uno, fonti. E chi può svuotare l’archivio.
+
+## Slide 7 · Il progetto
+
+Quarantacinque minuti. Cinque passi.
+
+Partite dalla proposta, così com’è. Provatela sulle vostre mappe: ogni tema che avete mappato, dove andrebbe? Cambiate dove non regge: una sottocartella in più, un nome diverso. Date un owner a ogni cartella: chi ne risponde. E alla fine scrivete il LEGGIMI.
+
+Il LEGGIMI lo scrive Claude, ma dalle vostre decisioni. Gli date le regole che avete deciso e gli chiedete una pagina, senza aggiungere niente.
+
+Poi lo leggiamo ad alta voce. Se una regola non si capisce letta ad alta voce, non verrà rispettata.
+
+> Facilita, non decidere. Se la discussione si blocca su un nome, scegliete il più semplice e andate avanti: la struttura si rivede alla lezione 12.
+
+> A fine progetto, una collega legge il 00_LEGGIMI ad alta voce.
+
+# 75-105’ · Migrazione in aula
+
+## Slide 8 · Migrare un dataset
+
+Adesso spostiamo qualcosa di vero. Un dataset piccolo, preso dalla vostra mappa.
+
+> Prima la tua demo su un dataset piccolo, in Cowork.
+
+Il prompt fa una cosa sola, ed è importante. Chiede a Claude di proporre dove va ogni file, con il nome nuovo, e di metterci davanti la proposta prima di spostare qualsiasi cosa. Le copie che non sono la versione vera vanno in una cartella “copie da eliminare”.
+
+Poi verificate. Riga per riga. Solo dopo il vostro ok Claude sposta i file.
+
+Vi ricordate la lezione 2? Prima la tabella, poi i conti. È la stessa regola. Prima la proposta, poi l’azione. Spostare file è un’azione, e Claude la fa solo dopo il vostro sì.
+
+E le copie? Non si cancellano subito. Restano lì un mese. Se nessuno le cerca, si cancellano.
+
+> Ognuna migra il suo dataset piccolo. Se Claude sposta senza aspettare, si recupera con la cronologia e il cestino: ripeti nel prompt “fammi vedere la proposta prima”.
+
+> Se una collega vuole tenere la sua copia di lavoro: va bene in 02_lavoro, con il nome giusto e un link alla fonte.
+
+# 105-120’ · Consegna
+
+## Slide 9 · La consegna
+
+Il lavoro per lunedì 1° febbraio è un’ora.
+
+Migrate il tema della vostra mappa. La versione vera nel posto giusto, le copie nella cartella delle copie, i link dove prima c’era una copia.
+
+Scrivete il LEGGIMI della sottocartella. Tre righe.
+
+E prima di chiudere, fate una prova. Cercate un file del vostro tema nella struttura nuova. Lo trovate in meno di un minuto?
+
+Ve lo chiedo perché lunedì ripetiamo il test dei cinque file. Chi non ha migrato il suo tema non vedrà la differenza.
+
+## Slide 10 · Per approfondire
+
+Per chi vuole, due video in italiano: le cinque regole per organizzare i file, e una pillola agile sulla Prima Direttiva, cioè sul lavorare a regole comuni partendo dalla fiducia. E due video in inglese, con sottotitoli, su PARA applicato a un drive condiviso.
+
+## Slide 11 · Chiusura
+
+Ultima domanda. Quale regola sarà la più difficile da rispettare?
+
+> Annota le risposte: sono il materiale per la revisione della struttura alla lezione 12.
+
+Ci vediamo il 29. Rifacciamo il test con il cronometro.

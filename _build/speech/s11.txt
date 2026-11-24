@@ -1,0 +1,156 @@
+titolo: Agente, fase 6: contratto e prove
+data: lunedì 1° marzo 2027
+===
+# 0-10’ · Ripartenza
+
+## Slide 1 · Copertina
+
+C’è un momento, quando si costruisce qualcosa, in cui si smette di guardarlo con onestà. È quando funziona la prima volta. Una risposta brillante convince più di dieci casi registrati. Oggi i vostri agenti fanno la prima prova vera. E per non cadere in quel momento, abbiamo scritto le risposte prima.
+
+## Slide 2 · Agenda
+
+Fase 6, l’ultima del processo. È la lezione in cui l’agente smette di essere un esercizio.
+
+Prima vi scambiate i casi di prova. Poi una pillola su come si misura un agente. Poi il contratto, in una pagina. Poi il grosso, in gruppo: si esegue la batteria, si corregge, si riesegue. Poi l’agente diventa un plugin, e lo installa l’IT. E alla fine due cose che non si saltano: i controlli prima dell’uso, e il lavoro dopo il percorso, detto in minuti.
+
+## Slide 3 · I casi, scambiati
+
+Prima di eseguire i casi, li leggiamo. E li legge l’altro gruppo.
+
+Tre domande. Manca un caso ovvio, o ce n’è uno ambiguo? I casi di stop sono davvero situazioni in cui l’agente deve fermarsi, e sono realistici? E la risposta attesa è scritta abbastanza bene da dire, dopo, se l’agente ha fatto bene o no?
+
+Un caso senza una risposta attesa chiara non misura niente. Diventa un’opinione su una risposta.
+
+> Cinque minuti di lettura per gruppo. Ogni gruppo può aggiungere un caso suggerito dall’altro. Se a qualcuna mancano risposte attese, le scrive adesso, prima di eseguire.
+
+# 10-20’ · Pillola
+
+## Slide 4 · Tre esiti
+
+Un agente si misura, non si ammira. Per ogni caso ci sono tre esiti possibili.
+
+Ok: fa quello che diceva la risposta attesa. Si può usare così.
+
+Fix: va nella direzione giusta, ma serve una correzione. Un dato, un tono, un passo mancante.
+
+Fail: sbaglia, inventa, o non si ferma quando doveva.
+
+L’obiettivo del percorso è almeno l’ottanta per cento di ok. E i casi di stop devono essere tutti ok. Tutti. Un agente che non si ferma quando deve non va in uso, anche se il resto è perfetto.
+
+Sono gli stessi tre esiti che usa il registro del coach. Non è un caso. Dopo il percorso il registro continua, e continua con le stesse parole.
+
+# 20-35’ · Contratto
+
+## Slide 5 · Il mini-contratto
+
+Il contratto sta in una pagina. Cinque voci.
+
+Cosa fa: il compito, per chi, in una frase.
+
+Input e output: cosa riceve, cosa restituisce, in che formato.
+
+Cosa non fa mai: copiato dal core, identico. E si cambia solo con una nuova versione.
+
+Chi lo mantiene: owner e co-owner. Correggono, aggiornano, decidono le nuove versioni. Se una delle due ha una settimana di picco, l’altra basta. È per questo che sono due.
+
+Il contratto non è per voi che l’avete costruito. È per chi lo userà. Deve capirlo una collega che non c’era.
+
+> Ogni gruppo compila contratto.md dal modello. Quindici minuti.
+
+# 35-80’ · Prove
+
+## Slide 6 · Esegui, correggi, riesegui
+
+Adesso la batteria. Trenta minuti di gruppo per eseguire e correggere, quindici per rieseguire. Cinque passi.
+
+Eseguite tutti i casi, senza fermarvi a correggere. Lo so, la tentazione è sistemare il primo errore subito. Non fatelo. Prima guardate il quadro intero.
+
+Segnate l’esito di ognuno: ok, fix o fail, con una nota.
+
+Poi correggete. Chi ha scritto la parte la corregge. E qui c’è la regola più importante del coach. Prima si corregge una regola che c’è già. Solo dopo se ne aggiunge una nuova. Un core che cresce a ogni errore torna a essere un prompt lungo, e perde coerenza.
+
+Poi rieseguite tutto. Tutto, non solo il caso che avete corretto. Una correzione può rompere altro. Una regola nuova sul tono può cambiare la risposta a un caso di stop.
+
+E registrate. Una riga per caso nel registro Excel.
+
+La owner esegue, la co-owner registra, le altre leggono gli esiti e propongono la correzione sulla loro parte.
+
+> Giri tra i gruppi. Molti fail alla prima esecuzione sono normali: aiuta a capire se il problema è il core, una skill o il caso stesso.
+
+> Se un caso di stop fallisce, si corregge prima di tutto il resto, nel “cosa non fa mai” del core.
+
+# 80-100’ · Plugin
+
+## Slide 7 · Il plugin
+
+L’agente adesso diventa un plugin. Lo stesso tipo di pacchetto del coach. Si installa, si usa, si aggiorna per versioni.
+
+Dentro ci sono il core, le skill, il contratto e un file che si chiama CHANGELOG, che dice cosa cambia a ogni versione. Fuori, nella cartella degli agenti, restano i casi di prova, il registro degli usi e il diario. Il registro sta fuori perché è di chi lo usa, non di chi lo costruisce.
+
+E anche qui non partite da zero. La struttura del plugin è già pronta in zero quattro modelli. Copiatela, metteteci dentro core, skill e contratto. Poi l’IT installa il plugin sui Mac del gruppo, e voi provate un caso. Infine scrivete la versione uno punto zero punto zero nel CHANGELOG, con la data e i vostri nomi.
+
+Da qui in avanti, ogni modifica al core è una nuova versione, con una riga nel CHANGELOG. Così si sa sempre quale agente ha prodotto cosa.
+
+> Se il plugin non si installa, l’agente si usa per la settimana direttamente dalla cartella in Cowork. L’IT sistema l’installazione prima della lezione 12. Non diventare tu l’assistenza tecnica di due agenti.
+
+# 100-112’ · Controlli e lavoro dopo il percorso
+
+## Slide 8 · Tre controlli, più uno
+
+Prima dell’uso vero, tre controlli che non si saltano. Più uno.
+
+Dati: l’agente lavora solo su dati che la regola dati della lezione 1 consente? Niente dati personali che non servono.
+
+Decisioni: prepara e propone. Su persone non decide e non valuta niente.
+
+Azioni: non invia, non pubblica, non modifica niente senza l’ok di chi lo usa.
+
+E il quarto: il DPO ha visto il perimetro dei dati di questo agente.
+
+Se un controllo non passa, l’agente non va in uso. Si corregge il core, o si restringe il compito. Meglio una settimana di ritardo che un uso fuori perimetro.
+
+> Se il passaggio con il DPO non è avvenuto, dillo qui con chiarezza: la settimana si fa sui casi di prova e l’uso reale parte dopo il via libera.
+
+## Slide 9 · Il lavoro dopo il percorso
+
+E adesso una slide che vi dovevo. Il percorso finisce l’8 marzo. Gli agenti no. Quindi vi dico oggi, in minuti, cosa resta. Non alla fine.
+
+Owner e co-owner: circa un’ora per la versione 1.1, alla lezione 12 o subito dopo. Poi quindici minuti al mese per leggere il registro e decidere le correzioni.
+
+Chi usa l’agente: un minuto per uso, una riga nel registro.
+
+Tutte: la rimisura. Calendario dal 15 marzo al 9 aprile, venti minuti. Diario dal 12 al 16 aprile, cinque minuti al giorno. Incontro lunedì 19 aprile, un’ora.
+
+E chi vuole fare da docente per il suo team: in coppia, su base volontaria. Ne parliamo lunedì prossimo, non si decide oggi.
+
+Ve lo chiedo una per una: regge?
+
+> Ascolta ognuna. Se una owner dice che non ce la fa, la co-owner diventa owner e si cerca una nuova co-owner nel gruppo. Si scrive nel contratto oggi.
+
+# 112-120’ · Consegna
+
+## Slide 10 · La consegna
+
+Il lavoro per lunedì 8 è usarlo davvero. Trenta minuti nel vostro slot, più un minuto per ogni uso.
+
+Tutta la settimana, ogni volta che il processo si presenta, passate dall’agente. Al posto del lavoro che avreste fatto a mano, non in aggiunta.
+
+E registrate ogni uso. Un minuto: data, compito, esito, una nota, chi. Una riga nel registro Excel, con l’esito da scegliere nel menu.
+
+Settimana piena? Versione minima: un uso reale, registrato.
+
+Un fail non è un fallimento. È il dato che ci serve lunedì per correggerlo.
+
+> Se il processo non si presenta in settimana, usate i casi di prova come casi reali e annotatelo nel registro.
+
+> Se il gruppo vuole aggiungere funzioni: si annotano nel diario per la versione 1.1. La 1.0.0 resta piccola.
+
+## Slide 11 · Per approfondire
+
+Quattro video. Uno di Anthropic, in inglese con sottotitoli, su come capire se un agente funziona. Uno in italiano sull’AI Act nel recruiting, per ricordarci perché le decisioni su persone restano nostre. La pillola di Enkk sui limiti dell’AI. E uno sugli MCP, per chi un giorno vorrà collegare l’agente ad altri strumenti.
+
+## Slide 12 · Chiusura
+
+Ultima domanda. Quale caso di prova vi ha sorpreso?
+
+Ci vediamo lunedì 8 marzo. È l’ultima lezione, e la fate anche voi.

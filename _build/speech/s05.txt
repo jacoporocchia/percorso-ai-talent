@@ -1,0 +1,152 @@
+titolo: Dati e struttura
+data: lunedì 18 gennaio 2027
+===
+# 0-15’ · Il test
+
+## Slide 1 · Copertina
+
+Vi ricordate la demo del primo giorno? Claude aveva fatto i conti giusti sul file sbagliato. Il file giusto era un terzo, il DEF_v3, arrivato per mail. Quel giorno abbiamo guardato il problema dalla parte del modello. Oggi lo guardiamo dalla parte dei dati. Perché Claude non aveva colpa. La colpa era della copia.
+
+## Slide 2 · Agenda
+
+Oggi i dati di Talent trovano un posto solo. E partiamo da quelli che servono all’agente, non da quelli che sarebbe bello mettere in ordine.
+
+Prima un test con il cronometro. Poi una pillola: fonte unica contro copia, e quattro convenzioni. Poi la struttura, che è già pronta. Poi un laboratorio in due parti: le fonti dell’agente nella sua cartella, e la caccia ai duplicati sul tema che usate davvero. Alla fine, la consegna.
+
+Uscite con la struttura in uso, le fonti del vostro agente già dentro, e un tempo di ricerca da battere lunedì prossimo.
+
+> Se un gruppo non ha l’elenco delle fonti della settimana, lo ricostruisce nella parte 1 del laboratorio. Non fermare la lezione per questo.
+
+## Slide 3 · Il test dei cinque file
+
+Adesso un test. Vi leggo cinque richieste, una alla volta. Sono richieste vere, del tipo che vi arriva il martedì mattina. Una riguarda la selezione. Per ognuna avete un minuto. Cercate dove cerchereste davvero. Allo scadere vi fermate.
+
+Per ognuna annotate tre cose. Trovato sì o no. In quanto tempo. Ed è la versione giusta?
+
+Non è una gara tra voi. Raccolgo solo quante su cinque, in media, e il dato resta in aula. Il punto è il sistema, non la persona.
+
+Lunedì prossimo rifacciamo lo stesso test, con le stesse richieste, sulla struttura nuova. Un dato che si trova in meno di un minuto è uno dei numeri con cui misureremo il percorso.
+
+> Leggi la prima richiesta. Fai partire il cronometro. Ripeti cinque volte. Raccogli i risultati per alzata di mano.
+
+# 15-30’ · Pillola: fonte unica e convenzioni
+
+## Slide 4 · Un dato vive in un solo posto
+
+Una regola sola. Un dato vive in un solo posto. Altrove si mette un link, non una copia.
+
+Tre ragioni.
+
+La copia diverge. Appena qualcuno corregge l’originale, la copia è vecchia. E nessuno glielo dice.
+
+La copia non sa di esserlo. Un file che si chiama “def_v3” sembra l’ultimo. Lo era, forse, il giorno in cui qualcuno l’ha salvato.
+
+E ogni copia ha una ragione. Lavorarci senza disturbare. Mandarla a qualcuno. Tenerla per sicurezza. Nasce bene, e muore dimenticata. Non è colpa di nessuno. È il motivo per cui serve una regola comune, non più attenzione.
+
+Fonte unica non vuol dire un unico file per tutto. Vuol dire che per ogni dato c’è un posto che fa fede. Gli altri puntano lì.
+
+## Slide 5 · Quattro convenzioni
+
+Quattro convenzioni. Bastano, se le rispettano tutte.
+
+Il nome: anno, mese, giorno, trattino basso, argomento. Si ordina da solo e si legge senza aprirlo.
+
+Niente “def”, niente “v3”. Le versioni le tiene lo strumento.
+
+> Mostra dal vivo la cronologia delle versioni su un file condiviso: tasto destro, Cronologia versioni.
+
+Vedete? Ogni salvataggio è già qui. Si torna indietro di una settimana senza tenere copie “per sicurezza”.
+
+Un LEGGIMI per cartella: tre righe. Cosa contiene, chi ne risponde, da dove arrivano i dati.
+
+E link, non copia. Se un file serve altrove, si mette il collegamento al file che fa fede.
+
+> Mostra come si copia un link di condivisione. Non una scorciatoia sul Desktop: il link.
+
+# 30-50’ · La struttura
+
+## Slide 6 · Sette cartelle, già pronte
+
+Questa è la struttura. Sette cartelle nella cartella condivisa di Talent. È già sincronizzata sul vostro Mac e la vedete in Cowork: l’ha preparata l’IT.
+
+> Chiedi: la vedete tutte? Chi non la vede lo dice adesso.
+
+Zero zero LEGGIMI, con le regole. Fonti, i dati originali, in sola lettura. Lavoro, le elaborazioni in corso, per progetto. Output, quello che è stato consegnato. Modelli: template, file modello, e più avanti le skill. Agenti: una cartella per ogni agente. Archivio, quello che è chiuso. E fuori, sul vostro Mac, la cartella del coach, che resta privata.
+
+Oggi decidiamo poco, apposta. Al massimo due modifiche: una sottocartella in più, un nome diverso. Poi un owner per ogni cartella, scelto per tempo, che dice sì.
+
+> Leggete ad alta voce il 00_LEGGIMI. Correggete quello che non torna. Tieni il tempo: venti minuti in tutto.
+
+Tra un mese d’uso la rivediamo, alla lezione 12. Le regole si cambiano dopo averle usate, non prima.
+
+## Slide 7 · Cosa non entra
+
+Tre cose non entrano, o entrano solo come indice.
+
+I dati di persone. Candidati e dipendenti restano nel gestionale, nell’ATS, nella piattaforma. Nella struttura solo con la matricola, e per uno scopo dichiarato. È la regola dati del primo giorno.
+
+I documenti vincolati. La rendicontazione dei fondi, i documenti inviati a enti esterni. Non si spostano e non si rinominano: rinominare un file può rompere i collegamenti tra Excel, e un controllo arriva mesi dopo. Si indicizzano. Un LEGGIMI che dice dove sono, e i link.
+
+La vostra istanza del coach. Resta sul vostro Mac.
+
+E nessuna copia si cancella senza la owner della cartella e senza la regola di conservazione scritta nel LEGGIMI.
+
+# 50-105’ · Laboratorio
+
+## Slide 8 · Parte 1: le fonti nell’agente
+
+Prima parte, venti minuti, in gruppo. Le fonti del vostro agente entrano nella sua cartella.
+
+Copiate la cartella modello da zero quattro modelli dentro zero cinque agenti, con il nome dell’agente. Prendete l’elenco che avete fatto in settimana. Per ogni documento, in fonti va il link, o la copia unica del file che fa fede. I documenti con dati personali: si tolgono i nomi, o restano fuori. Se un documento è vincolato, va il link, non il file. Poi tre righe di LEGGIMI.
+
+È la prima fase del processo con cui costruirete l’agente. La anticipiamo oggi, così la lezione 8 parte da qui.
+
+> Giri tra i due gruppi. Se una fonte ha dati personali e il gruppo esita, la risposta è: fuori, con una riga sul perché.
+
+## Slide 9 · Parte 2: la caccia ai duplicati
+
+Seconda parte, individuale. Scegliete un tema che usate ogni settimana. Il template delle job description e gli annunci. I modelli di convocazione. I materiali di onboarding. Il kit del career day. Non un tema a caso: quello che migrerete, perché vi conviene.
+
+Date a Claude, in Cowork, la cartella di quel tema e il prompt della slide. Elenca i file, raggruppa quelli che sembrano lo stesso documento, segnala gli Excel collegati ad altri file. E non sposta, non rinomina, non cancella niente.
+
+Poi decidete voi. Per ogni gruppo di file, quale è la versione vera? Claude propone. Ma solo voi sapete quale file è stato mandato al responsabile, o al fondo.
+
+> Gira. Se una collega trova più di cinque versioni dello stesso file, chiedile il permesso di dirlo in plenaria: è il miglior argomento della giornata.
+
+## Slide 10 · Migrare
+
+Come si migra. Prima la proposta, poi lo spostamento. È la stessa regola del calendario: prima la tabella, poi i conti.
+
+Il prompt chiede a Claude dove va ogni file, con il nome nuovo. Le copie che non sono la versione vera vanno in una cartella “copie da eliminare”. Non si cancella niente subito. E i file vincolati non si toccano.
+
+Prima di dire ok, un controllo che vi risparmia un guaio. Negli Excel, menu Dati, Modifica collegamenti. Se un file ne ha, spostarlo li rompe. Lo lasciate dov’è e lo indicizzate.
+
+Quindi due strade. Migrare, se il tema è libero. Indicizzare, se è vincolato. In entrambi i casi, un LEGGIMI. E alla fine il test: lo trovate in un minuto?
+
+Spostare file è un’azione. Claude la fa solo dopo il vostro ok.
+
+# 105-120’ · Consegna
+
+## Slide 11 · La consegna
+
+Per lunedì 25, quarantacinque minuti nel vostro slot.
+
+Trentacinque minuti: migrate o indicizzate il tema di oggi. Versione vera nel posto giusto, copie nella cartella da eliminare, link dove serviva la copia. Se è vincolato, solo l’indice.
+
+Dieci minuti: il LEGGIMI, dal modello.
+
+Settimana piena? Versione minima: LEGGIMI e indice, senza spostare niente. Quindici minuti. Lunedì vedrete la differenza lo stesso, perché l’indice è nella struttura.
+
+E se questa è la vostra settimana di diario, continuate: due momenti al giorno.
+
+## Slide 12 · Per approfondire
+
+Quattro video. Uno in italiano su come organizzare i file perché si trovino. La Prima Direttiva, che parla di fiducia quando si lavora su regole comuni. E due video in inglese sul metodo PARA, se volete vedere un sistema completo. Facoltativi.
+
+## Slide 13 · Chiusura
+
+Una frase a testa. Quante copie avete trovato del file che pensavate unico?
+
+> Ascolta i numeri. Non commentarli: lunedì prossimo li rimettete accanto al test.
+
+Ci vediamo lunedì 25. Stesse cinque richieste, struttura nuova.

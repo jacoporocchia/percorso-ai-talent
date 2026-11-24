@@ -1,0 +1,20 @@
+Chiave della demo (solo per il facilitatore)
+
+CANCELLATO (vero): Paolo Ricci - Excel avanzato
+CANCELLATO (vero): Fabio Moretti - Sicurezza generale
+CANCELLATO (vero): Serena Martinelli - Agile fundamentals
+NUOVO (vero): Sofia Conte - Agile fundamentals (12 h)
+NUOVO (vero): Lorenzo Ferraro - Sicurezza generale (4 h)
+NUOVO (vero): Martina Ferri - Agile fundamentals (12 h)
+NUOVO (vero): Emanuele Fabbri - Sicurezza generale (4 h)
+NUOVO (vero): Greta Bianco - Agile fundamentals (12 h)
+TRAPPOLA maiuscolo: Matteo Costa scritto COSTA (stessa persona)
+TRAPPOLA grafia: Stefano De Luca scritto Deluca (stessa persona)
+TRAPPOLA spazio finale: Federica Rinaldi con spazio in coda (stessa persona)
+TRAPPOLA nome puntato: L. Romano = stessa persona di ottobre
+TRAPPOLA duplicato: Davide Gallo compare due volte (gonfia le ore di 8)
+TRAPPOLA data come testo: riga di Simone Rizzo
+CAMBIO CORSO (vero): Ilaria Lombardo da Comunicazione efficace a Agile fundamentals
+SOLO NEL DEF: cancellato anche Sara Esposito
+SOLO NEL DEF: nuova iscritta Aurora Pellegrini - Agile fundamentals
+ORE TOTALI: ottobre 324 | novembre così com'è 356 (con duplicato) | novembre corretto 348 | DEF 356 al netto del duplicato

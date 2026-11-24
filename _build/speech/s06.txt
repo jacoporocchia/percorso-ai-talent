@@ -1,0 +1,146 @@
+titolo: Claude sui dati ordinati
+data: lunedì 25 gennaio 2027
+===
+# 0-15’ · Il test, secondo giro
+
+## Slide 1 · Copertina
+
+Il 7 dicembre vi ho fatto vedere Claude sbagliare un confronto tra due file di iscrizioni. Oggi rifaccio lo stesso confronto, con quasi lo stesso prompt, sullo stesso modello. Cambia una cosa sola: la cartella. E vediamo cosa succede.
+
+## Slide 2 · Agenda
+
+Oggi chiudiamo la seconda parte del percorso, quella sui dati. Una settimana dopo averla aperta.
+
+Prima rifacciamo il test dei cinque file. Poi una pillola breve. Poi la demo: il confronto della prima lezione, due mesi dopo. Poi un laboratorio in tre pezzi: chiedere bene, verificare, e la regola dati del primo giorno, ripassata sul vostro lavoro.
+
+Uscite con un prompt in quattro pezzi, un metodo per verificare numeri e testi, e la regola dati applicata a casi vostri.
+
+## Slide 3 · Il test, rifatto
+
+Stesse cinque richieste di lunedì scorso, nello stesso ordine. Un minuto ciascuna. Questa volta si cerca nella struttura condivisa.
+
+> Leggi le cinque richieste con il cronometro, come alla lezione 5. Raccogli il risultato aggregato e mettilo accanto a quello di allora. Resta in aula.
+
+Prima: [ … su cinque, in media]. Adesso: [ … su cinque].
+
+> Se una richiesta riguarda un tema solo indicizzato, conta lo stesso: l’indice è nella struttura. Se riguarda un tema non ancora toccato, dillo: il test misura la parte migrata o indicizzata.
+
+Se un file non si è trovato, non è un fallimento. È una regola che manca. Perché non si trovava? Nome poco chiaro, LEGGIMI mancante, tema non migrato. Ogni causa diventa una riga nel 00_LEGGIMI di Talent.
+
+Questo è il secondo indicatore del percorso: un file si trova in meno di un minuto. Anche qui, il punto è il sistema.
+
+# 15-30’ · Pillola
+
+## Slide 4 · La struttura decide cosa gli dai
+
+Tre idee che conoscete già. Oggi le rimettiamo insieme.
+
+Claude vede solo il contesto. Se il file giusto non è nella cartella che gli date, per lui non esiste. Come il DEF_v3.
+
+La scrivania ha un limite. Duecentomila token. Una cartella disordinata la riempie di copie e di versioni inutili, e lui deve indovinare quale conta.
+
+Il LEGGIMI è contesto. Quelle tre righe che avete scritto per le colleghe, Claude le legge come le leggete voi. Gli dicono cosa c’è e da dove arriva.
+
+Quindi la frase di oggi è questa. Una cartella ordinata è il prompt migliore. Meno da spiegare, meno da indovinare, meno da sbagliare.
+
+Alla prima lezione il rimedio ai due Excel da sessanta mega era ridurre. Oggi il rimedio è anche un altro: avere una fonte sola.
+
+# 30-55’ · Demo
+
+## Slide 5 · Lo stesso confronto, due mesi dopo
+
+> Apri la cartella demo/Talent-demo di questa lezione in Cowork. Incolla il prompt della demo dalla scaletta.
+
+Alla lezione 1 avevamo tre file con nomi ambigui, e il giusto era arrivato per mail. Colonne in ordine diverso. Nomi scritti in quattro modi. Un duplicato. Una data come testo. E nessuna chiave: si confrontava per nome.
+
+Oggi abbiamo un file per mese, in fonti, formazione. Stesse colonne, stesso ordine, nomi con la data davanti. La matricola come chiave. E un LEGGIMI che dice da dove arrivano i dati.
+
+Il prompt è quasi lo stesso. Ho aggiunto due cose: dove sono i dati e, alla fine, per ogni numero da quali righe viene.
+
+> Leggi la risposta ad alta voce.
+
+Quattro cancellati, sei nuovi, un cambio di corso. Le ore passano da trecentoventiquattro a trecentocinquantasei.
+
+> Controlla con il file CHIAVE_lezione6, solo tuo. Poi fate insieme le tre domande della lezione 1.
+
+Una cosa prima che qualcuno la noti. Trecentocinquantasei è lo stesso numero che alla lezione 1 era sbagliato. Lì veniva da un duplicato, il netto era trecentoquarantotto. Qui viene dal file giusto, che ha otto ore in più. È una coincidenza dei dati della demo, non un trucco.
+
+E adesso le tre domande. Da dove viene? Cosa non hai verificato? Quali casi sono dubbi? Questa volta reggono. Non perché Claude sia cambiato. Perché è cambiata la cartella.
+
+Ma notate una cosa. Il tono è identico a quello della lezione 1. Sicuro allora, sicuro adesso. Quindi si verifica comunque.
+
+> Se la demo sbaglia anche qui, è un’ottima demo: le tre domande e un ricalcolo in Excel lo trovano. Il messaggio regge.
+
+# 55-105’ · Laboratorio
+
+## Slide 6 · Il prompt in quattro pezzi
+
+Un buon prompt ha quattro pezzi.
+
+Contesto: dove sono i dati e cosa sono. Per esempio: nella cartella fonti, formazione, ci sono gli export mensili.
+
+Compito: cosa deve fare, con un verbo. Confronta, elenca, riassumi.
+
+Formato: come volete il risultato. Una tabella con queste colonne. Tre righe. Un file.
+
+Verifica: come lo controllerete. Per ogni numero, dimmi da quali righe viene.
+
+Il quarto pezzo è quello che manca quasi sempre. E chiederlo nel prompt non cambia solo il controllo dopo. Cambia la risposta.
+
+> Ognuna scrive un prompt in quattro pezzi per un compito della settimana e lo prova sulla struttura. Dopo venti minuti, due prompt letti ad alta voce.
+
+## Slide 7 · Verificare è un metodo
+
+Adesso, sul risultato che avete appena ottenuto, verificate. E verificare è un metodo, non un sospetto. Vale per i numeri e vale per i testi.
+
+Le tre domande, che conoscete.
+
+Un campione: cinque righe controllate a mano. O, se è un testo, cinque frasi ritrovate nel documento da cui vengono.
+
+Un ricalcolo: un totale rifatto in Excel. Per i numeri è la verifica più robusta. Excel conta, Claude ragiona.
+
+Nessun fatto senza fonte. Nei testi è l’errore più insidioso. Chiedete a Claude una job description e ci troverete i buoni pasto da otto euro, che nessuna policy prevede. Chiedete una sintesi di commenti e una frase finirà in bocca alla persona sbagliata. Ogni benefit, ogni data, ogni regola deve stare in un documento. Se non lo trovate, non c’è.
+
+Quanto verificare? Dipende da quanto costa un errore. Una bozza di mail, poco. Un numero che va al responsabile, molto. È la stessa logica della scheda della lezione 4, applicata a ogni singola risposta.
+
+## Slide 8 · La regola dati, ripassata
+
+E infine la regola dati. Non è nuova: ve l’ho data il primo giorno. Oggi la ripassiamo sul vostro lavoro, perché adesso avete casi veri davanti. Nemmeno sulla struttura ordinata, certe cose si danno a Claude.
+
+I dati di persone: candidati e dipendenti con nome restano nei sistemi di record. La matricola sì.
+
+I dati particolari: salute, provvedimenti disciplinari, appartenenza sindacale. Mai.
+
+I documenti riservati di altri team o della direzione, se non sono vostri da usare.
+
+Le credenziali: password, codici, chiavi. Mai, in nessun prompt.
+
+E niente account personali, mai, per il lavoro. Poi una regola sopra tutte. La policy aziendale vince su questa slide. Se avete un dubbio, il dato non si carica, e si chiede.
+
+> Chiedi a ognuna: nel compito che hai appena fatto, c’era qualcosa di questa slide? Se c’è una policy aziendale sull’AI generativa, citala qui con le regole specifiche.
+
+# 105-120’ · Consegna
+
+## Slide 9 · La consegna
+
+Il lavoro per lunedì 1° febbraio è mezz’ora.
+
+Venti minuti: prendete un compito reale, uno che dovevate fare comunque. Partite da un file della struttura condivisa, o dal vostro tema, con un prompt in quattro pezzi.
+
+Dieci minuti: scrivete una nota sugli errori. Dove ha sbagliato Claude. Come ve ne siete accorte. Cosa avete cambiato, nel prompt o nei dati.
+
+Se non ha sbagliato niente, scrivete come avete verificato. Anche questo è un risultato.
+
+Settimana piena? Versione minima: il compito, e una riga di nota.
+
+Le vostre note aprono la prossima lezione. Le classifichiamo insieme, e da lì nasce la vostra prima skill.
+
+## Slide 10 · Per approfondire
+
+Quattro video sul perché i modelli sbagliano. Enkk sui limiti dell’AI, senza allarmismi. Due video in italiano sulle allucinazioni, con due punti di vista diversi. E per chi vuole il motore, il Deep Dive di Karpathy, la parte su token e contesto.
+
+## Slide 11 · Chiusura
+
+Ultima domanda. Cosa avete smesso di dare a Claude da quando c’è la struttura?
+
+Ci vediamo lunedì 1° febbraio. Portate i vostri errori.

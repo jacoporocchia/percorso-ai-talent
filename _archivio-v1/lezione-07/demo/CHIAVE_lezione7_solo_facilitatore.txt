@@ -1,0 +1,8 @@
+Chiave della demo strutturata (lezione 7, solo per il facilitatore)
+
+Stessi dati della lezione 1, ma: una sola versione per mese in 01_fonti/formazione, nomi AAAA-MM-GG, colonne nello stesso ordine, matricola come chiave, nomi puliti, nessun duplicato, date come date. Novembre è il contenuto del DEF_v3.
+
+CANCELLATI: Sara Esposito, Paolo Ricci, Fabio Moretti, Serena Martinelli
+NUOVI: Sofia Conte (Agile fundamentals, 12 h), Lorenzo Ferraro (Sicurezza generale, 4 h), Martina Ferri (Agile fundamentals, 12 h), Emanuele Fabbri (Sicurezza generale, 4 h), Greta Bianco (Agile fundamentals, 12 h), Aurora Pellegrini (Agile fundamentals, 12 h)
+CAMBI CORSO: Ilaria Lombardo da Comunicazione efficace a Agile fundamentals
+ORE TOTALI: ottobre 324, novembre 356, differenza +32

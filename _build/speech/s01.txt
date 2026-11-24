@@ -1,0 +1,226 @@
+titolo: Il modello e il coach
+data: lunedì 7 dicembre 2026
+===
+# 0-15’ · Apertura e patto
+
+## Slide 1 · Copertina
+
+> Apri con la copertina e aspetta che siano tutte collegate. Non partire con la presentazione del percorso: parti da una scena.
+
+Due file Excel, la stessa lista di iscrizioni in due versioni. Chiedete a Claude di confrontarli. Risponde in pochi secondi, in ordine, con i totali in fondo. È bellissimo. E può essere sbagliato in tre punti senza che niente, nel tono, ve lo faccia capire. Tra dieci minuti lo vediamo succedere.
+
+Non ve lo mostro per spaventarvi. Ve lo mostro perché è il motivo per cui siamo qui. Claude lo usate già, per gli Excel e per le slide. Quello che vogliamo imparare in queste dodici settimane non è usarlo di più. È capire quando fidarci di quello che ci restituisce, e dove ci libera tempo davvero.
+
+## Slide 2 · Agenda
+
+Oggi facciamo cinque cose. Prima un patto: tre regole, una regola sui dati e tre cose che succederanno alla fine, dette subito. Poi vi faccio vedere una demo, e vi chiederò di trovarci dentro un errore. Poi venti minuti su come ragiona un modello e quanto può leggere. Poi conoscete il coach, dove vivono i suoi file, e lo avviate su di voi. Alla fine, il lavoro per lunedì prossimo.
+
+Uscite da qui con due cose: il coach avviato sui vostri goal di lavoro, e tre domande che userete ogni volta che Claude vi dà un numero.
+
+## Slide 3 · Le tre regole
+
+Tre regole, e valgono per tutte e dodici le settimane.
+
+La prima: si registra. La parte in plenaria, cioè quella in cui parlo io e quella in cui discutiamo insieme, viene registrata. Diventa materiale per i vostri team, perché alla fine del percorso sarete voi a portarlo a loro. Il lavoro individuale con il coach non si registra mai.
+
+La seconda: l’istanza è vostra. Il coach vive in una cartella sul vostro Mac. La leggete voi, la correggete voi. Io non la apro. In aula condividete solo quello che scegliete di condividere. Lo dico adesso e lo ripeterò, perché la settimana prossima vi chiederò di guardare dove va il vostro tempo, e quel lavoro funziona solo se è sincero.
+
+La terza: ogni lezione lascia un lavoro. Si fa sul vostro lavoro vero, in uno slot fisso di quarantacinque minuti in orario, con il vostro nome, che i vostri responsabili hanno firmato. Non la sera, non nei ritagli. E nelle settimane piene c’è sempre una versione minima da quindici minuti, scritta in cima a ogni scheda. Fare la minima non è restare indietro: è il patto che funziona.
+
+> Chiedi un sì esplicito a ognuna, per nome, sulla registrazione. Se anche una dice di no, si registra solo la tua parte.
+
+Vi chiedo un sì, una per una. Va bene per tutte e tre?
+
+## Slide 4 · La regola dati
+
+Adesso quattro righe sui dati. Valgono da oggi, non da quando costruiremo l’agente.
+
+Uno: niente account personali. ChatGPT o Claude sul telefono, con l’account vostro, per il lavoro non si usano. Si lavora nel Claude aziendale.
+
+Due: niente dati nominativi. CV, valutazioni, dati di candidati e colleghi con nome e cognome non si danno a Claude.
+
+Tre: quando serve riferirsi a una persona, la chiave è la matricola, non il nome.
+
+Quattro: nel dubbio, chiedete il metodo. Claude scrive la formula o i passi, Excel li applica sui dati veri. Lo vedremo tra poco con i file da sessanta mega.
+
+> Distribuisci la regola dati su carta. Pausa di qualche secondo dopo la frase seguente.
+
+Se oggi fate già qualcosa di diverso, non è una colpa. Succede a tutti, perché nessuno ce l’aveva detto. Ditemelo a fine lezione, anche a parte, e troviamo insieme come farlo nel modo giusto.
+
+> Se una collega lo racconta in aula, per esempio riassunti di CV: ringrazia, non commentare il caso davanti a tutte, e fissa dieci minuti a parte con la risposta concordata con il DPO.
+
+## Slide 5 · Tre cose che succedono alla fine
+
+Ultima cosa del patto. Tre cose che succedono alla fine del percorso. Ve le dico oggi, perché scoprirle a marzo sarebbe scorretto.
+
+La prima. L’8 marzo i due gruppi mostrano il loro agente al responsabile. Si parlerà di ore liberate, ma per processo, mai per persona, e solo se chi ne risponde è d’accordo.
+
+La seconda. Il vostro tempo resta vostro. La settimana prossima guarderemo dove va, e quel lavoro sta nella vostra istanza. Il responsabile non lo vede, e lo ha confermato per iscritto.
+
+La terza. Alla fine, chi vuole può portare un pezzo del percorso al suo team, in coppia con una collega. È un invito, non un compito.
+
+> Chiedi se ci sono domande sul patto. Non andare avanti finché non c’è silenzio vero.
+
+# 15-40’ · Demo e caccia all’errore
+
+## Slide 6 · La demo
+
+> Condividi lo schermo. Carica i file di ottobre e di novembre. Incolla il prompt della slide, senza aggiungere niente.
+
+Adesso faccio una cosa che fate anche voi. Ho due file di iscrizioni ai corsi: quello di ottobre e quello aggiornato a novembre. Li carico in Claude e gli chiedo chi si è aggiunto, chi è stato cancellato e di quanto sono cambiate le ore.
+
+> Leggi la risposta ad alta voce, con calma, senza commentare. Lascia che sembri giusta.
+
+Bene. La domanda per voi è una sola. Ve ne fidereste abbastanza da mandarla al vostro responsabile, così com’è?
+
+> Raccogli due o tre risposte. Poi forma le coppie.
+
+Allora facciamo così. A coppie, dieci minuti. Avete i due file e la risposta. Trovatemi almeno un errore.
+
+> Mentre lavorano, non suggerire. Se una coppia è ferma dopo cinque minuti, dille solo: guardate i nomi.
+
+> Raccogli quello che hanno trovato. Poi rivela i due livelli.
+
+Vediamo cosa avete trovato.
+
+Il primo livello sono i dati. Costa scritto tutto in maiuscolo. De Luca con lo spazio in un file e Deluca senza nell’altro. Rinaldi con uno spazio in fondo, che non si vede. Luca Romano che diventa L. Romano. Davide Gallo che compare due volte, e porta otto ore che non esistono. Una data scritta come testo. Per Claude, Costa e COSTA possono essere due persone diverse. Per noi sono la stessa.
+
+Il secondo livello è peggio. Il file giusto non era nessuno dei due. Era un terzo, il DEF_v3, arrivato per mail il giorno dopo. E lì dentro c’erano un’altra cancellazione e un’altra iscrizione. Claude non poteva saperlo. Non gliel’ho dato.
+
+> Se la risposta di Claude era già perfetta, salta il primo livello e chiedi: bene, ma è il file giusto? Poi tira fuori il DEF_v3.
+
+# 40-65’ · Pillola: come ragiona un LLM e quanto può leggere
+
+## Slide 7 · Plausibile, non vero
+
+Guardate una cosa. Claude non ha sbagliato i conti. I conti erano giusti. Erano giusti su dati sporchi e sul file sbagliato. E il tono era identico nella parte giusta e in quella sbagliata.
+
+Tre idee, e poi vi lascio in pace con la teoria.
+
+Uno: prevede, non consulta. Un modello come Claude genera il testo che, con più probabilità, viene dopo quello che gli avete scritto. Non apre un archivio di fatti veri e ve li legge. Scrive ciò che è plausibile. Molto spesso plausibile e vero coincidono. Non sempre.
+
+Due: vede solo quello che gli date. Il DEF_v3 era nella mia mail. Per Claude non esisteva. Se una cosa non è nella conversazione, per lui non c’è.
+
+Tre: sbaglia con lo stesso tono. Una cifra inventata suona sicura come una cifra giusta. Quindi la sicurezza del tono non vi dice niente. Lo dico in un altro modo: quando Claude è convinto, non è un indizio.
+
+## Slide 8 · Le tre domande
+
+Allora cosa facciamo? Non smettiamo di usarlo. Gli facciamo tre domande prima di fidarci di un numero.
+
+Da dove viene? Da quale file e da quali righe, e mostramele.
+
+Cosa non hai verificato? Cosa hai dovuto interpretare?
+
+Quali casi sono dubbi? Nomi simili, duplicati, formati diversi: elencameli prima di darmi il totale.
+
+> Rifai il confronto della demo aggiungendo le tre domande in coda al prompt. Leggete insieme la nuova risposta.
+
+Vediamo la differenza. Stessi file, stesso modello. Adesso ci dice che Costa e COSTA potrebbero essere la stessa persona, che Gallo compare due volte. Non è diventato più intelligente. Gli abbiamo chiesto di mostrarci il lavoro.
+
+Le tre domande le trovate nella scheda della consegna. Questa settimana usatele ogni volta.
+
+## Slide 9 · La scrivania
+
+Adesso una cosa pratica, che vi cambia il modo di caricare i file.
+
+Claude non legge parole. Legge pezzi di parola, che si chiamano token. Un token è circa tre quarti di parola. L’italiano, i numeri e le tabelle ne consumano di più dell’inglese. Il token è la moneta.
+
+Tutto quello che Claude può avere davanti in una conversazione sta su una scrivania di circa duecentomila token. Sembra tanto. È un romanzo di cinquecento pagine, oppure diecimila righe di una tabella da dieci colonne.
+
+E c’è un dettaglio che quasi nessuno sa. A ogni messaggio Claude riceve di nuovo tutta la conversazione, dall’inizio. Quindi una chat lunga consuma di più, e risponde peggio, perché le cose dette all’inizio si perdono.
+
+Regola pratica: un compito, una chat. Quando cambiate argomento, o vi accorgete che le risposte peggiorano, aprite una chat nuova e ripartite da un riassunto.
+
+> Chiedi: quanto è lunga la chat più lunga che avete aperto questa settimana?
+
+## Slide 10 · I due Excel da 60 MB
+
+Adesso un caso che capita a tutte. Ho due Excel da sessanta mega e voglio confrontarli. Li carico e basta?
+
+Facciamo due conti. Un file di iscrizioni da sessanta mega, con dieci colonne, sono circa un milione e quattrocentomila righe. Circa trenta milioni di token. Centocinquanta scrivanie. Per un file solo. Con due, trecento. I numeri cambiano con il file. L’ordine di grandezza no.
+
+Cosa succede se lo caricate così. In chat non passa, perché il limite è trenta mega per file. Se lo strumento lo accetta, Claude non lo legge: scrive un po’ di codice, ne guarda un pezzo e decide da solo quali colonne confrontare e su quale chiave. Sono esattamente le scelte che nella demo hanno prodotto un errore detto con sicurezza. Solo che qui non le vedete. E intanto consumate il vostro limite d’uso e caricate dati personali che non servivano.
+
+Cosa fate invece. Quattro mosse.
+
+Riducete: solo le colonne e le righe che servono, con una chiave, per esempio la matricola.
+
+Chiedete il metodo, non il risultato: la formula CERCA.X, o i passi di Power Query.
+
+Provate su cinquanta righe di cui conoscete già la risposta.
+
+Poi applicate in Excel, sul file intero.
+
+Excel conta. Claude ragiona. È la quarta riga della regola dati, vista da vicino.
+
+> Chiedi: quale file da 60 MB avete sul Mac in questo momento? Se esce un caso reale, annotalo: è un candidato per la lezione 4.
+
+# 65-110’ · Il coach e l’intake
+
+## Slide 11 · File e cartelle
+
+Prima del coach, dieci minuti su una cosa che sembra banale e non lo è: dove stanno i file.
+
+Il coach è fatto di file con estensione punto md. Un punto md è un file di testo, niente di più. Si apre con TextEdit, o direttamente in Cowork. Anche l’agente che costruirete a febbraio sarà fatto di file così.
+
+Seconda cosa: ci sono tre posti diversi. Il Mac, dove un file c’è solo per voi. OneDrive, che è la vostra copia nel cloud. E la cartella di team, su SharePoint, che è di tutte. Lo stesso file in due di questi posti sono due file.
+
+Terza cosa: il coach non si ricorda di voi. Ogni volta rilegge i suoi file: goal, profilo, impegni. Se cambiate un file, cambia quello che “ricorda”.
+
+> Fai aprire a ognuna la cartella del coach e un file .md con TextEdit. Poi chiedi: il vostro Desktop è sincronizzato con OneDrive? Chi non lo sa lo controlla adesso.
+
+Nella scheda della consegna trovate una pagina che si chiama “dove sta cosa”. Tenetela a portata di mano.
+
+## Slide 12 · Cos’è il coach
+
+Adesso vi presento il compagno di viaggio.
+
+Il coach è un’AI che fa domande. Vi aiuta a chiarire cosa volete, dove va il vostro tempo e, più avanti, cosa ha senso automatizzare. È lo stesso plugin che uso io. Voi avete lo stesso plugin, con una cartella vuota tutta vostra.
+
+Cosa non è. Non è un coach certificato, non fa terapia, non valuta nessuno. Non manda niente a me né al vostro responsabile.
+
+Dove vive: sul vostro Mac, in una cartella che si chiama coach con il vostro nome. Dentro ci sono il profilo, i goal, gli impegni. Sono file di testo. Li potete aprire, leggere e correggere.
+
+Lavora in due modi. In modalità coach fa una domanda per messaggio. È il default, ed è voluto: l’agenda è vostra, non sua. Se vi serve una proposta, gli scrivete “passa in modalità consulente”, e lui vi propone delle opzioni.
+
+Oggi vi servono due comandi. Slash coach intake, per partire. Slash coach memoria, per vedere cosa ha scritto di voi.
+
+## Slide 13 · L’intake
+
+Nei prossimi trenta minuti il coach vi chiede dove volete arrivare. Sono cinque passaggi: l’accordo su come lavorate insieme, quanto deve spingervi, il quadro del vostro ruolo, i goal a dodici mesi, e un primo passo a quattro-sei settimane.
+
+Oggi arrivate almeno al terzo. Il resto lo finite a casa.
+
+Una cosa importante. I goal che portate sono di lavoro. Non perché quelli personali non contino, ma perché lunedì prossimo li usiamo per leggere dove va il vostro tempo.
+
+> Ognuna apre la sua istanza e lancia /coach intake. Tu giri tra i tavoli. Non guardi lo schermo se non te lo chiedono. Sblocchi solo problemi tecnici.
+
+> Se una collega si blocca sulle domande: può scrivere “passa in modalità consulente e proponimi tu delle opzioni”.
+
+# 110-120’ · Chiusura e consegna
+
+## Slide 14 · La consegna
+
+Fermiamoci qui. Il lavoro per lunedì 14 sono due cose, quarantacinque minuti nel vostro slot.
+
+Prima: finite l’intake, fino ai goal e al primo impegno. Poi lanciate slash coach memoria e controllate cosa ha scritto. Se c’è qualcosa che non vi somiglia, correggetelo.
+
+Seconda: nella settimana, annotate tre usi reali di Claude. Cosa avete chiesto, quanto era grande quello che gli avete dato, quanto tempo avete risparmiato e come avete verificato la risposta. Senza nomi di persone. Le tre domande di oggi vi servono qui.
+
+Se la settimana è piena, fate la versione minima: solo i goal. Quindici minuti.
+
+Lunedì portate il goal compilato e le tre righe. La scheda con la tabella ve la mando dopo la lezione.
+
+> Ognuna scrive in chat a che punto dell’intake è arrivata.
+
+## Slide 15 · Per approfondire
+
+Per chi vuole, ci sono quattro video brevi di Enkk che coprono le basi di oggi: cos’è l’AI, cos’è un modello linguistico, come si allena, come funziona un agente. Sono facoltativi. Se ne guardate uno, guardate quello sui Large Language Models. Per chi vuole vedere il motore, ci sono due video di Karpathy, in inglese con i sottotitoli. Sono lunghi. Non sono un compito.
+
+## Slide 16 · Chiusura
+
+Ultimo giro, una frase a testa. Una cosa che vi ha sorpreso oggi.
+
+> Ascolta senza commentare. Chiudi con la data della prossima lezione.
+
+Ci vediamo lunedì 14. Si parte dai vostri goal.

@@ -1,0 +1,128 @@
+titolo: Agente, fase 4: architettura
+data: lunedì 15 febbraio 2027
+===
+# 0-15’ · Ripartenza
+
+## Slide 1 · Copertina
+
+Lunedì scorso il vostro agente si è acceso per la prima volta. Ha citato regole che non vi aspettavate, o ha inventato un dato che doveva chiedere. Oggi decidiamo una cosa sola, ma è la decisione che lo regge: cosa legge sempre, e cosa legge solo quando serve.
+
+## Slide 2 · Agenda
+
+Fase 4 del processo: l’architettura.
+
+Prima la regola su cui non eravate d’accordo. Poi la pillola: regole sempre, strumenti al bisogno. Poi leggiamo i due core ad alta voce, in plenaria. Poi il modello di una skill dell’agente, e trenta minuti di gruppo in cui ognuna scrive la sua. Alla fine ognuna la prova, una volta.
+
+Uscite con un core rivisto e una skill dell’agente con il vostro nome, già provata.
+
+## Slide 3 · La regola su cui non eravate d’accordo
+
+Scrivendo il core, su una regola non eravate d’accordo. C’è sempre. Un minuto per gruppo: quale?
+
+> Ascolta. Per ognuna chiedi all’aula in quale dei tre casi cade.
+
+Ci sono tre possibilità.
+
+Era una regola, o un caso particolare? I casi particolari vanno nelle skill o negli esempi. Non nel core. E oggi diventano skill.
+
+Era una scelta? Due modi legittimi di lavorare. Allora decide la owner, e lo scrive nel diario.
+
+Era un buco? Il processo vero non è chiaro neanche a voi. Questo è il caso più prezioso. È il punto esatto in cui l’agente avrebbe sbagliato.
+
+> Se il buco riguarda il processo stesso, chi approva o quando si manda, lo chiarisce la titolare del processo, non il gruppo.
+
+E una cosa da ricordare. Un agente non risolve un disaccordo. Lo esegue in modo incoerente: un giorno in un modo, il giorno dopo nell’altro. Il disaccordo va risolto prima, tra persone.
+
+# 15-25’ · Pillola
+
+## Slide 4 · Regole sempre, strumenti al bisogno
+
+Lo avete visto alla lezione 7, smontando il coach. Oggi diventa la vostra architettura.
+
+Nel core, sempre attivo: chi è, per chi lavora, cosa produce. Il tono e il formato di ogni risposta. Cosa chiedere se manca un dato, e quando fermarsi. Cosa non fa mai.
+
+Nelle skill, al bisogno: una procedura per una situazione. Template ed esempi riusciti. Criteri per un caso specifico. Si apre quando la richiesta somiglia alla riga “Usalo quando”.
+
+E il perché lo sapete già. Un agente non si accorge di stare sbagliando. Quindi se una regola fosse in una skill, non la caricherebbe proprio quando serve.
+
+> Mostra la decisione nel diario del coach, PROCESSO.md, fase 4.
+
+È la decisione più importante che ho preso costruendo il coach. Eccola nel diario, con la data e il perché.
+
+# 25-55’ · I due core in plenaria
+
+## Slide 5 · Il core, letto ad alta voce
+
+Adesso ogni gruppo legge il suo core ad alta voce. Tutto. L’altro gruppo ascolta e fa tre domande.
+
+Vale a ogni risposta? Se una regola serve solo in una situazione, è una skill. Si sposta oggi.
+
+Comincia con un verbo? Scrivi, chiedi, fermati. Se comincia con “è importante che”, la segniamo: la riscrivete la settimana prossima.
+
+Sta in una pagina? Se no, qualcosa è riferimento e torna in fonti.
+
+Leggere ad alta voce sembra una perdita di tempo. Non lo è. Le regole scritte male si sentono, prima ancora di capire perché.
+
+Quindici minuti per gruppo. La owner decide cosa cambiare, e lo scrive nel diario.
+
+> Non correggere tu: fai le domande. Se manca la parte di qualcuna, la si scrive nei primi minuti, insieme. Annota le regole che escono dal core: sono le skill di oggi.
+
+# 55-65’ · Il modello della skill
+
+## Slide 6 · Una skill dell’agente
+
+Adesso le skill. La struttura la conoscete: è la stessa della vostra skill personale della lezione 7. Solo che oggi vive dentro l’agente.
+
+Il modello è in zero quattro modelli. La riga “Usalo quando”. Poi la sequenza dei passi. Poi cosa chiedere se manca qualcosa. Poi l’output, con un esempio riuscito. E in fondo il vostro nome e la data. Chi l’ha scritta la corregge.
+
+Da dove viene la procedura? Dal mucchio “comportamento”, o da una regola che la plenaria ha appena spostato fuori dal core.
+
+E una regola di misura. Una skill, una situazione. Se nella riga “Usalo quando” ci sono due “oppure”, sono due skill.
+
+# 65-95’ · Una skill a testa
+
+## Slide 7 · Trenta minuti di gruppo
+
+Trenta minuti. Ognuna scrive la sua.
+
+Il gruppo da tre scrive tre skill, una a testa. La titolare del processo prende la procedura più delicata. Il gruppo da due ne scrive due: il processo è stabile e piccolo, e due bastano per la prima versione.
+
+Chi finisce prima legge la skill di un’altra e controlla la riga “Usalo quando”. Chi è indietro scrive solo riga e sequenza: domande e output si completano a casa.
+
+Perché in aula. Perché qui c’è chi vi risponde quando la procedura non è chiara. A casa, da sole, la domanda resta aperta e la skill resta vuota.
+
+> Gira tra i gruppi e guarda una cosa sola: la riga “Usalo quando”. Se descrive un contenuto, “template per…”, falla riscrivere come situazione. Se due skill si sovrappongono, metti vicine le due autrici.
+
+# 95-108’ · Prova
+
+## Slide 8 · Chiedi senza nominarla
+
+Adesso ognuna prova la sua. Una volta.
+
+In una chat nuova, nella cartella dell’agente. Leggi il core, le skill sono nella cartella skill. Poi una richiesta come la farebbe una collega, senza nominare la skill. E alla fine: dimmi quale skill hai usato.
+
+Tre cose da guardare. È scattata? Se no, si corregge la riga. Ha seguito la sequenza? Se no, la sequenza è ambigua. Ha chiesto il dato mancante? Se no, manca nella sezione “chiedi”.
+
+Se ha usato la skill di un’altra, le due righe si somigliano troppo. Le riscrivete insieme.
+
+# 108-120’ · Consegna
+
+## Slide 9 · La consegna
+
+Per lunedì 22, trenta minuti nel vostro slot.
+
+Quindici minuti: rifinite la vostra skill. Sequenza, domande, output, e l’esempio riuscito con i nomi inventati.
+
+Quindici minuti: provatela su due casi diversi, senza nominarla. Per ognuno una riga nel diario: è scattata, cosa avete corretto.
+
+Settimana piena? Versione minima: riga e sequenza complete, e una prova.
+
+## Slide 10 · Per approfondire
+
+Tre video. Quello sulle skill, se l’avete perso alla lezione 7. La pillola di Enkk sugli agenti, per vedere cosa c’è dentro oltre il prompt. E un video di Anthropic, in inglese con sottotitoli, su come un agente sceglie lo strumento giusto: è esattamente la riga “Usalo quando”.
+
+## Slide 11 · Chiusura
+
+Ultima domanda. Quale regola è uscita dal core per diventare una skill?
+
+Ci vediamo lunedì 22. Ogni gruppo legge l’agente dell’altro.

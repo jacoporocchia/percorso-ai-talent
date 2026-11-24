@@ -1,0 +1,158 @@
+titolo: Skill, plugin, connettori
+data: lunedì 1° febbraio 2027
+===
+# 0-20’ · Ripartenza
+
+## Slide 1 · Copertina
+
+Da due mesi usate un coach che vi fa domande, ricorda i vostri goal e salva le cose nella cartella giusta. Oggi lo apriamo e guardiamo dentro. E scopriamo che è fatto di file di testo. Niente di più. E poi ognuna di voi ne scrive uno.
+
+## Slide 2 · Agenda
+
+Oggi è una lezione ponte. Chi costruisce una skill ha già costruito un pezzo di agente.
+
+Prima classifichiamo gli errori che avete portato. Poi tre parole da non confondere. Poi smontiamo il coach. Poi il laboratorio: ognuna costruisce la sua prima skill e la prova su un caso vero. E prima di uscire, controlliamo che lunedì prossimo la ritroviate.
+
+## Slide 3 · Gli errori della settimana
+
+Ognuna legge la sua nota sugli errori. La mettiamo in una di tre colonne.
+
+> Giro. Per ogni nota, chiedi all’aula: in che colonna va?
+
+Il dato era sbagliato. Copia vecchia, file incompleto, colonna ambigua. Il rimedio lo conoscete: la struttura e il LEGGIMI.
+
+L’istruzione era ambigua. Claude ha fatto una cosa ragionevole, ma non quella che volevate. Rimedio: il prompt in quattro pezzi.
+
+Ha inventato. Un numero o un fatto che non stava da nessuna parte. Rimedio: da dove viene? Sempre.
+
+Notate una cosa. Se un errore torna spesso, nella stessa forma, è un candidato per una skill. Un’istruzione che Claude carica da solo ogni volta che serve, così non dovete ripetergliela voi.
+
+# 20-35’ · Pillola: tre parole
+
+## Slide 4 · Skill, plugin, connettore
+
+Tre parole. Le sentirete ovunque, e vengono confuse spesso.
+
+Skill. È un file di istruzioni che Claude carica quando riconosce una situazione. Pensatela come una procedura scritta bene, che si apre da sola quando serve.
+
+Plugin. È un pacchetto: skill, comandi e regole, che si installa tutto insieme. Il coach è un plugin.
+
+Connettore. È una porta verso un sistema esterno. Quando alla lezione 2 Claude ha letto il vostro Outlook in sola lettura, stava usando un connettore.
+
+E un agente? Nel nostro percorso, un agente è un plugin. Regole sempre attive, skill caricate al bisogno, a volte un connettore. Niente di magico.
+
+> Se chiedono di MCP: è il protocollo con cui funzionano i connettori. Non approfondire oltre.
+
+# 35-55’ · Smontaggio del coach
+
+## Slide 5 · Com’è fatto il coach
+
+> Apri il plugin del coach a schermo, cartella per cartella.
+
+Questo è il coach, dentro.
+
+C’è una cartella che si chiama core. Dentro, un solo file. È sempre attivo: dice chi è il coach, quali sono i suoi confini, cosa non fa mai. È corto: circa milleduecento parole. Solo regole di comportamento.
+
+Poi ci sono le skill. Coach tempo, coach processi, coach automazione, e altre cinque. Ognuna ha un file principale che comincia con una riga: “Usalo quando…”. E poi il metodo, diviso in pezzi.
+
+Poi i comandi. Slash coach audit non fa niente di speciale. È una scorciatoia che apre la skill giusta.
+
+E infine l’istanza modello: la cartella vuota da cui sono nate le vostre.
+
+Ecco come lavora. Claude non legge tutte le skill. Legge solo le righe “Usalo quando”. E apre una skill quando la situazione corrisponde.
+
+Adesso una domanda per voi. Perché le regole di comportamento non stanno in una skill, da caricare quando servono?
+
+> Lascia rispondere. Poi dai la risposta.
+
+Perché un agente non si accorge di stare sbagliando. Se la regola “non dare consigli non richiesti” fosse in una skill, Claude dovrebbe accorgersi che sta per dare un consiglio per caricarla. E non se ne accorge. Quindi le regole stanno sempre accese.
+
+## Slide 6 · La riga “Usalo quando”
+
+Se oggi vi porto a casa una cosa sola, è questa riga.
+
+Claude non sa cosa c’è dentro una skill finché non la apre. Decide se aprirla leggendo una riga. Quindi la riga deve somigliare alla richiesta, non al contenuto.
+
+Guardate a sinistra. “Contiene i criteri di automazione.” “Template per le mail ai docenti.” Descrivono cosa c’è dentro. Non scattano.
+
+A destra. “Bisogna scrivere a un docente esterno per confermare date e aula.” Questa è una situazione. È quello che direste voi, quando vi serve. Scatta.
+
+> Fai riscrivere a voce alta una riga sbagliata in versione giusta. Scegline una dalla colonna di sinistra.
+
+Proviamo. “Informazioni sul catalogo corsi.” Come la riscrivete?
+
+Questa è l’abilità che vi servirà di più nelle prossime tre lezioni.
+
+# 55-100’ · Laboratorio
+
+## Slide 7 · La prima skill
+
+Adesso ognuna costruisce la sua. E la costruisce da una scheda di automazione ferma al gradino 4. Template o checklist.
+
+Perché il gradino 4? Perché template e checklist sono istruzioni pure. Non c’è un sistema da mantenere. Una skill, in fondo, è un template che si attiva da solo.
+
+Cinque passi. Scegliete la scheda. Scrivete lo scopo in una frase. Scrivete la riga “Usalo quando”, con le parole di chi la chiede. Scrivete le istruzioni e un esempio riuscito. E provatela subito, su un caso vero.
+
+In Cowork, chiedete a Claude: aiutami a creare una skill. E lavorate insieme sui cinque passi.
+
+> Se una collega non ha schede al gradino 4: parte da un template che manda spesso. Una job description, una mail di convocazione, il benvenuto ai neoassunti. È un gradino 4 non ancora scritto.
+
+## Slide 8 · Com’è fatta una skill
+
+Ecco come appare una skill, scritta. È un esempio inventato: una skill per confermare le date a un docente esterno.
+
+Un nome. Una riga di descrizione che comincia con “Usalo quando”. E poi le istruzioni.
+
+Quattro regole di scrittura.
+
+Istruzioni, non spiegazioni. Scrivi, chiedi, elenca.
+
+Un esempio riuscito vale più di tre regole.
+
+Cosa manca: la skill dice cosa chiedere se l’input è incompleto. Una buona skill non inventa i pezzi che non ha.
+
+Corta. Se supera una pagina, sono due skill.
+
+> A fine blocco, due colleghe mostrano la loro skill e la provano dal vivo.
+
+> Se la skill non scatta: riscrivi la riga “Usalo quando” con le parole esatte che la collega userebbe. Se fa troppo, dividila.
+
+> Se una collega vuole costruire subito un agente: dalle un ruolo invece di un rinvio. Costruisce una seconda skill per 04_modelli, o fa la tester del suo gruppo sulla cartella di prova con dati finti. L’agente parte lunedì prossimo.
+
+# 100-120’ · Dove vive la skill, e consegna
+
+## Slide 9 · Dove vive la tua skill
+
+Una cosa pratica, prima di uscire. Dove vive la skill che avete appena fatto?
+
+Nella vostra cartella di lavoro. Non dentro la cartella del coach: lì si confonde con le sue, e lunedì non la trovate più. In Cowork la vedete nell’elenco delle skill. Sul Mac è una cartella con dentro un file SKILL.md, che aprite con TextEdit.
+
+Come capite se è scattata da sola? Chiedete senza nominarla. Se Claude usa il vostro modello o i vostri passi, è scattata.
+
+Come la correggete? Aprite SKILL.md, quasi sempre cambiate la riga “Usalo quando”, salvate, e riprovate in una chat nuova.
+
+Adesso fate una cosa. Chiudete Cowork. Riapritelo. Ritrovate la vostra skill.
+
+> Aspetta che tutte la ritrovino. Chi non ci riesce la ricrea adesso nella cartella giusta, con te. Non lunedì.
+
+## Slide 10 · La consegna
+
+Il lavoro per lunedì 8 sta nei vostri quarantacinque minuti.
+
+Trenta minuti, spalmati nella settimana: usate la vostra skill tre volte, su casi reali. Ogni volta chiedetevi: è scattata da sola? Il risultato era giusto? E correggete. Se non scatta, il problema è quasi sempre la riga “Usalo quando”.
+
+Quindici minuti: le fonti del vostro agente, la vostra parte. Sono già nella cartella dell’agente dalla lezione 5. Per ognuna di quelle che vi toccano segnate: serve, non serve, non so. Lunedì partiamo da lì.
+
+> Prima di uscire, ogni gruppo divide le fonti tra le persone. Così nessuna aspetta le altre.
+
+Settimana piena? Versione minima: un uso della skill e una correzione. Quindici minuti.
+
+## Slide 11 · Per approfondire
+
+Quattro video in italiano. Due sulle skill di Claude, uno con un esempio passo per passo. E due sugli MCP, il protocollo dietro i connettori, spiegato senza tecnicismi.
+
+## Slide 12 · Chiusura
+
+Ultima domanda. Quale lavoro ripetitivo diventerà la vostra prossima skill?
+
+Ci vediamo lunedì 8 febbraio. Si comincia a costruire.

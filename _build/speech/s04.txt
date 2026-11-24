@@ -1,0 +1,180 @@
+titolo: Dal processo alla scheda
+data: lunedì 11 gennaio 2027
+===
+# 0-20’ · Regola zero
+
+## Slide 1 · Copertina
+
+Prima della pausa vi ho lasciato con una domanda: cosa succede se smetto? Oggi la facciamo davvero, insieme, nei primi venti minuti. Se una di voi scopre che una delle sue tre attività non serviva quasi a nessuno, sarà il risultato migliore della giornata. Non costa niente e non va mantenuto.
+
+## Slide 2 · Agenda
+
+Oggi è una lezione densa. È il punto d’arrivo della prima parte del percorso.
+
+Prima la regola zero, sulle vostre tre candidate. Poi una scala con otto gradini, che vi accompagna per sempre, e un avviso su chi ha già costruito un agente da solo. Poi mappate con il coach il processo più promettente. Poi lo trasformate in una scheda: valore, fattibilità, rischio, chi lo mantiene. E alla fine, tutte insieme, scegliamo i due processi su cui costruiremo gli agenti, e formiamo i gruppi con quattro regole.
+
+Uscite con una scheda di automazione con il gradino scelto, e con il vostro gruppo.
+
+## Slide 3 · La regola zero, insieme
+
+Quindici minuti con il coach. Slash coach automazione, e per ognuna delle tre candidate due domande. Cosa succede se smetto? Si può eliminare, combinare, riordinare, semplificare?
+
+Ogni candidata finisce in una di tre colonne. Smessa: avete scoperto che non serviva, o serviva molto meno. Semplificata: meno passaggi, un formato unico. Ancora candidata: serve, è già semplice, pesa.
+
+> Quindici minuti di lavoro individuale. Poi il giro.
+
+Un giro veloce. Quante candidate avete in ciascuna colonna?
+
+> Conta ad alta voce, colonna per colonna. Applaudi le smesse.
+
+Le smesse si applaudono. Davvero. Un’attività eliminata non ha bisogno di un agente, di una formula, di una persona che la tenga in piedi. È tempo restituito a costo zero.
+
+> Se nessuna è stata smessa o semplificata, scegli una candidata a caso e rifai la domanda: cosa succede se smetti?
+
+# 20-35’ · Pillola: la scala
+
+## Slide 4 · La scala delle otto opzioni
+
+Questa è la slide più importante di oggi. Forse del percorso.
+
+Quando avete un’attività che pesa, le opzioni non sono due, “a mano” o “con l’AI”. Sono otto. E si sale dal basso.
+
+Uno: eliminare. Due: semplificare. Tre: delegare, con istruzioni e criteri chiari. Quattro: un template, una checklist, un testo pronto. Fin qui non c’è nessun sistema da mantenere.
+
+Cinque: automatizzare a regole. Una formula, un flusso in Power Automate. Sei: un passaggio con un modello linguistico, dove serve interpretare un testo. Sette: un agente, dove è il modello a scegliere i passaggi. Da qui in su, c’è qualcosa che qualcuno deve mantenere.
+
+E poi l’ottavo, che è fuori dalla scala. Farlo a mano, apposta. Perché in certe attività il giudizio è il valore. Non è una sconfitta. È una scelta.
+
+La regola è una sola. Si sale dal basso e ci si ferma al primo gradino che risolve il problema.
+
+Vi dico perché insisto. Alla fine del percorso non guarderemo solo quanti agenti abbiamo costruito. Guarderemo anche quante schede si sono fermate ai gradini bassi. Per me sono un successo, non un ripiego.
+
+## Slide 5 · Il prompt-agente
+
+Una parentesi, perché so che succede. Qualcuna di voi, magari durante le feste, ha già costruito un “agente”. Due pagine di istruzioni scritte di getto, provato su un caso che funziona.
+
+Non è una colpa, ed è un ottimo segno di curiosità. Ma guardatelo con la scala davanti. È il gradino sette saltando i primi sei. Nessuno sa cosa fa quando il caso è quello che deve fallire. Nessuno sa cosa succede quando il processo cambia. E spesso ha dentro dati veri, incollati per vedere se va.
+
+La scheda di oggi fa le stesse cose, nell’ordine giusto. Prima: va fatto? Quale gradino basta? Poi valore, fattibilità, rischio, chi lo mantiene. Se arriva al sette, l’agente si costruisce dalla lezione 8, con un metodo e dei casi di prova.
+
+Se ne avete uno, portatelo nella scheda. È la miglior materia prima. Spesso scoprite che bastava un template.
+
+> Se ci sono dati veri dentro un prompt-agente, non parlarne in plenaria: riprendi la regola dati della lezione 1, in privato.
+
+# 35-60’ · Mappa del processo
+
+## Slide 6 · Mappare prima di automatizzare
+
+Prima di decidere il gradino, bisogna vedere il processo. E il processo vero non è quello scritto nella procedura. È quello che avete fatto l’ultima volta.
+
+Il coach vi aiuta con le domande. Cosa produce, e per chi. Dove inizia e dove finisce. I passaggi, da cinque a quindici, ognuno con un verbo e un oggetto. Chi fa cosa, quanto lavoro e quanta attesa. E alla fine la lettura: dove sono gli sprechi, qual è il vincolo, qual è il vostro ruolo.
+
+Il comando è slash coach processo, sulla candidata più promettente.
+
+Un consiglio. Prima il percorso normale, poi le eccezioni. Se partite dalle eccezioni non finite più.
+
+> Giri. Se una collega descrive la procedura ideale, chiedi: pensa all’ultima volta che l’hai fatto. Cosa è successo davvero?
+
+# 60-85’ · Scheda di automazione
+
+## Slide 7 · La scheda
+
+Adesso il processo diventa una scheda. Slash coach automazione, poi: facciamo la scheda.
+
+La scheda mette in fila quattro cose.
+
+Valore: quante volte, quanto tempo, e cosa fareste con il tempo liberato. Se non lo sapete, tornate al gruppo “da proteggere” della lezione 3.
+
+Fattibilità: le regole si possono scrivere? Gli input sono strutturati? Il processo è stabile? Le eccezioni sono poche?
+
+Rischio: quanto costa un errore, quando ve ne accorgete, se tocca dati personali.
+
+E chi la mantiene. Questa la salterete, lo so. Quando qualcosa cambia, il modulo, la procedura, il formato del file, chi aggiusta? Se la risposta siete voi, non avete liberato tempo. Avete aggiunto un carico nuovo.
+
+## Slide 8 · Il conto del pareggio
+
+C’è un conto semplice che vi dice quanto tempo potete investire per costruire una soluzione senza andare in perdita.
+
+Cinque anni, per quante volte l’anno succede, per quanti minuti risparmiate ogni volta.
+
+Un’attività settimanale in cui risparmiate dieci minuti: cinque per cinquantadue per dieci. Circa quarantatré ore. Un’attività mensile in cui risparmiate mezz’ora: trenta ore.
+
+Se costruire la soluzione richiede più di così, restate ai gradini bassi.
+
+È un ordine di grandezza, non un business case. E il valore non è solo tempo. Meno errori, meno carico mentale contano. Ma vanno scritti nella scheda, non dati per scontati.
+
+> Se chiedono come correggere il conto: togli il tempo di manutenzione; accorcia l’orizzonte se il processo cambierà presto; moltiplica se la soluzione serve anche ad altre.
+
+## Slide 9 · Quando tocca persone
+
+Una slide che non è pensata per spaventare, ma per rendere esplicito quello che già sappiamo.
+
+Noi lavoriamo con persone. Quando un processo tocca persone, ci sono quattro cose da tenere presenti.
+
+I dati personali: si usano solo quelli che servono, per uno scopo dichiarato.
+
+Il controllo a distanza: analizzare mail o calendari di altre persone ricade nell’articolo 4 dello Statuto. Il vostro calendario sì. Quello degli altri no.
+
+Le decisioni su persone: per l’AI Act, selezione e valutazione sono attività ad alto rischio.
+
+I fondi: in rendicontazione un errore emerge mesi dopo, durante un controllo. Lì servono validazioni e un’approvazione umana.
+
+Per questo la regola del percorso è semplice. Gli agenti che costruiamo lavorano su processi che non decidono niente su persone. Quando toccano candidati o valutazioni, l’AI ordina le informazioni, prepara, propone. Decide un umano.
+
+Il coach vi fa le domande giuste su questo. Non vi dà pareri legali.
+
+# 85-120’ · Plenaria e consegna
+
+## Slide 10 · Due processi, due gruppi
+
+Adesso mettiamo in fila le schede.
+
+> Ognuna dice titolo della scheda e gradino scelto. Scrivili su una lavagna o in una slide condivisa.
+
+Da qui scegliamo due processi su cui costruire gli agenti. E scegliamo i più condivisi, non i più brillanti.
+
+Quattro criteri. Condiviso: lo fanno almeno due di voi, o lo riceve tutto il team. Gradino sei o sette: la scheda dice che un passaggio con il modello o un agente ha senso. Documenti esistenti: ci sono già procedure, template, esempi riusciti da cui partire. Rischio gestibile: un umano approva prima dell’azione finale.
+
+> Se nessuna scheda arriva a 6-7, va bene. Si sceglie il processo con più valore e si costruisce un agente che prepara e propone.
+
+Poi i gruppi. Due gruppi, uno da due e uno da tre. Ognuno costruisce un agente su un processo.
+
+## Slide 11 · Quattro regole per i gruppi
+
+Quattro regole, perché i gruppi reggano fino a marzo. Le ho scritte dopo aver visto cosa succede senza.
+
+Owner per tempo. La owner è chi ha tempo per mantenere l’agente, non chi fa il processo ogni giorno. Accanto c’è una co-owner. Se una delle due ha una settimana di picco, l’altra basta.
+
+La titolare esperta. Chi fa il processo ogni giorno è l’esperta: dice cosa è giusto. Non deve anche tenere i file.
+
+Il gruppo da due prende il processo più stabile e le agende più prevedibili. In due, un’assenza dimezza il gruppo.
+
+Una skill a testa. Ognuna sarà autrice di almeno una skill dell’agente. Nessuna resta a guardare.
+
+E il lavoro di gruppo sta in aula: trenta minuti nelle lezioni 9, 10 e 11. Fuori dall’aula ognuna fa la sua parte, nel suo slot, da sola.
+
+> Usa le settimane di picco raccolte alla lezione 3 per proporre owner e gruppo da due. Scrivi nomi di owner e co-owner sulla lavagna prima di chiudere.
+
+## Slide 12 · La consegna
+
+Il lavoro per lunedì 18 sta nei vostri quarantacinque minuti.
+
+Primo, trenta minuti: completate la scheda iniziata oggi, con il gradino scelto. Anche “eliminare” è una scheda. Si documenta. Una seconda scheda è facoltativa.
+
+Secondo, quindici minuti, la vostra parte: l’elenco delle fonti per il processo del vostro gruppo. Dove stanno procedure, template, esempi riusciti. Posizione e link. Non copiate niente, non allegate niente: lunedì 18 le fonti entrano nella cartella dell’agente partendo da dove le avete indicate.
+
+E la regola dati vale anche qui: nell’elenco nessun documento con dati personali di candidati o dipendenti.
+
+Settimana piena? La versione minima è solo l’elenco delle fonti.
+
+## Slide 13 · Per approfondire
+
+Quattro video. La pillola di Enkk sugli agenti, se non l’avete vista. Due video brevi in italiano sull’AI Act, uno dedicato al recruiting. E un video di Anthropic, in inglese con sottotitoli, che dice una cosa che vi suonerà familiare: spesso un agente non serve, e basta molto meno.
+
+## Slide 14 · Chiusura
+
+Ultima domanda. Quale gradino avete scelto, e perché non uno più in alto?
+
+> Ascolta. Se qualcuna ha scelto il gradino 7 per un processo che non lo richiede, non correggerla in plenaria: riprendilo con lei a fine lezione.
+
+Ci vediamo lunedì 18. Si parte dai dati, e dalle vostre fonti.

@@ -1,0 +1,134 @@
+titolo: Dove vivono i dati
+data: lunedì 18 gennaio 2027
+===
+# 0-15’ · Ripartenza
+
+## Slide 1 · Copertina
+
+Vi ricordate la demo del primo giorno? Claude aveva fatto i conti giusti sul file sbagliato. Il file giusto era un terzo, il DEF_v3, arrivato per mail. Quel giorno abbiamo guardato il problema dalla parte del modello. Da oggi lo guardiamo dalla parte dei dati. Perché Claude non aveva colpa. La colpa era della copia.
+
+## Slide 2 · Agenda
+
+Oggi si apre la seconda parte del percorso: i dati. Contiamo dove stanno i dati di Talent e quante copie ne esistono.
+
+Prima un giro su schede e fonti. Poi un test con il cronometro. Poi una pillola su una regola sola. Poi un laboratorio: la mappa dei luoghi e la caccia ai duplicati. Alla fine, la consegna.
+
+Uscite con due numeri. Quante copie avete trovato su un caso reale. E un tempo di ricerca da battere fra due settimane.
+
+## Ancora slide 2 · Il giro sui gruppi
+
+> Due minuti per gruppo: schede completate, cartella fonti avviata?
+
+Prima di cambiare argomento, un aggiornamento dai gruppi. Le schede sono complete? Le fonti per l’agente sono in una cartella? Non serve che sia finito. Mi serve sapere dove siete.
+
+# 15-30’ · Il test dei cinque file
+
+## Slide 3 · Il test dei cinque file
+
+Adesso un test. Vi leggo cinque richieste, una alla volta. Sono richieste vere, del tipo che vi arriva il martedì mattina. Per ognuna avete un minuto. Cercate dove cerchereste davvero. Allo scadere vi fermate.
+
+Per ognuna annotate tre cose. Trovato sì o no. In quanto tempo. Ed è la versione giusta?
+
+Non è una gara tra voi. I risultati li raccolgo in forma aggregata, quante su cinque in media. Il punto è il sistema, non la persona.
+
+Fra due settimane ripetiamo lo stesso test, con le stesse richieste, sulla struttura nuova. La differenza è il risultato di queste due lezioni.
+
+> Leggi la prima richiesta. Fai partire il cronometro. Ripeti cinque volte. Raccogli i risultati per alzata di mano o in chat.
+
+# 30-45’ · Pillola: fonte unica
+
+## Slide 4 · Un dato vive in un solo posto
+
+Una regola sola, oggi. Un dato vive in un solo posto. Altrove si mette un link, non una copia.
+
+Perché? Tre ragioni.
+
+La copia diverge. Appena qualcuno corregge l’originale, la copia è vecchia. E nessuno glielo dice.
+
+La copia non sa di esserlo. Un file che si chiama “def_v3” sembra l’ultimo. Lo era, forse, il giorno in cui qualcuno l’ha salvato.
+
+Chi cerca non sa scegliere. Tre file simili, tre date diverse. Quale è vero? Lo sa solo chi li ha creati. E se chi li ha creati è in ferie, non lo sa nessuno.
+
+Fonte unica non vuol dire un unico file per tutto. Vuol dire che per ogni dato c’è un posto che fa fede. Gli altri puntano lì.
+
+E una cosa che vale la pena dire. Ogni copia nasce con una buona ragione. Lavorarci senza disturbare. Mandarla a qualcuno. Tenerla per sicurezza. E muore senza che nessuno se ne accorga. Una struttura funziona solo se rende il link più comodo della copia.
+
+# 45-70’ · I luoghi e la struttura del coach
+
+## Slide 5 · I quattro tipi di posto
+
+I dati di Talent stanno in almeno quattro tipi di posto.
+
+Le cartelle condivise: OneDrive, SharePoint, unità di rete. Spesso con copie locali.
+
+La mail. L’allegato come archivio. La versione giusta è nell’ultimo messaggio della catena, se lo trovate.
+
+Gli Excel personali. Il file di lavoro sul desktop che, un giorno, diventa la fonte senza dirlo a nessuno.
+
+E i sistemi: il gestionale HR, la piattaforma corsi, il portale del fondo. Questi sono i sistemi di record. Sui dati delle persone, fanno fede loro. Tutto il resto dovrebbe essere un’estrazione temporanea, non un archivio parallelo.
+
+> Esercizio a coppie, quindici minuti.
+
+A coppie. Scegliete un tema che conoscete bene. Dove sta ogni pezzo? E quale fa fede?
+
+## Slide 6 · La cartella del coach
+
+Adesso aprite la cartella del vostro coach. E ritrovate la sintesi del time audit.
+
+> Aspetta che la trovino tutte.
+
+Ci avete messo pochi secondi. Non perché siete brave a cercare. Perché la struttura è semplice.
+
+Guardate come è fatta. Ci sono tre separazioni, e vale la pena copiarle.
+
+Metodo e istanza. Il plugin, cioè le regole, è uguale per tutte. La vostra cartella, cioè i dati, è di ognuna.
+
+Memoria e artefatti. Chi siete e cosa volete sta da una parte. Quello che producete sta da un’altra.
+
+Un posto per ogni cosa. La sintesi dell’audit sta in un punto solo. E lì la trovate.
+
+La settimana prossima applichiamo la stessa logica alla cartella condivisa di Talent.
+
+# 70-105’ · Caccia ai duplicati
+
+## Slide 7 · Caccia ai duplicati
+
+Adesso diamo a Claude una cartella vera e gli chiediamo di trovarci i duplicati.
+
+> Fai prima la tua demo su una cartella reale, in Cowork. Incolla il prompt della slide.
+
+Il prompt chiede tre cose. Elenca i file con nome, data e dimensione. Raggruppa quelli che sembrano lo stesso documento in versioni diverse. E poi la frase più importante: non spostare, non rinominare, non cancellare niente.
+
+Claude è bravo a trovare i file che si somigliano. Ma solo voi sapete quale versione è stata mandata al responsabile. Quindi lui propone. Il giudizio resta vostro.
+
+Per ogni tema contate quattro cose. In quanti posti sta. Quante copie dello stesso documento. Quale fa fede e perché. E quanto ci avete messo a capirlo.
+
+Oggi non si sposta niente. Si lavora su una copia o in sola lettura. La migrazione è il lavoro della lezione 6, con regole che decidiamo insieme.
+
+> Ognuna ripete sulla sua cartella. Se Claude propone di spostare o cancellare, ripeti nel prompt: non spostare, non cancellare niente.
+
+> Se emergono file con dati personali in posti sbagliati, annotali senza aprirli. Servono per le regole della lezione 6.
+
+# 105-120’ · Consegna
+
+## Slide 8 · La consegna
+
+Il lavoro per lunedì 25 è una mappa. Circa quarantacinque minuti.
+
+Scegliete un tema che conoscete bene e che usate spesso. Per esempio la formazione 2026. Meglio stretto che largo.
+
+Poi fate la mappa, con il prompt di oggi. Dove stanno i file. Quante copie per documento. Qual è quella vera. Il risultato è una tabella, salvata dove volete.
+
+E la regola resta: non spostate, non cancellate niente. Si migra la settimana prossima, tutte insieme.
+
+> Ognuna scrive in chat il tema che ha scelto.
+
+## Slide 9 · Per approfondire
+
+Quattro video. Uno in italiano su come organizzare i file sul computer. Una pillola di Enkk sugli embeddings, cioè su come un modello capisce che due testi parlano della stessa cosa: è quello che fa Claude quando raggruppa i duplicati. E due video in inglese, con sottotitoli, sul metodo PARA, un modo di organizzare i file per progetti, aree, risorse e archivio. La settimana prossima ci torna utile.
+
+## Slide 10 · Chiusura
+
+Ultima domanda. Quante copie avete trovato del file che pensavate unico?
+
+Ci vediamo il 22. Portate la mappa.
